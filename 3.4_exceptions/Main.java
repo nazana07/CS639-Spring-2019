@@ -82,14 +82,20 @@ public class Main {
 				return false;
 
 		} catch (SQLException ex) {
-			// sql error, debug info:
-			System.err.print("QUERY:\t");
-			System.err.println(sqlQuery);
-			ex.printStackTrace(System.err);
+            // show a generic error message
+            System.err.println("An SQLException occurred");
+
+            // set success to false
+            success = false;
 		}
 		
 		// cleanup sql objects
-		try { results.close(); } catch (SQLException ex) { }
+		try { 
+            // make sure that results is not null
+            if (results != null) { 
+                results.close(); 
+            }
+        } catch (SQLException ex) {}
 		try { statement.close(); } catch (SQLException ex) { }
 		try { c.close(); } catch (SQLException ex) { }
 
