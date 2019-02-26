@@ -64,7 +64,7 @@ public class Main {
 		Statement statement = null;
 		ResultSet results = null;
 
-		boolean success = true;
+		boolean success = false;
 
 		String sqlQuery = "SELECT COUNT(*) AS count FROM USERS WHERE username == '" + username + "' AND password == '"
 				+ password + "'";
@@ -78,26 +78,28 @@ public class Main {
 			results = statement.executeQuery(sqlQuery);
 
 			// if no user with that username/password, return false
-			if (results.getInt("count") == 0)
-				return false;
-
-		} catch (SQLException ex) {
+			
+            if (results.getInt("count") == 1)
+                success = true; // only when exactly one match
+        } catch (SQLException ex) {
             // show a generic error message
             System.err.println("An SQLException occurred");
+        }
 
-            // set success to false
-            success = false;
-		}
-		
 		// cleanup sql objects
-		try { 
+		try {
             // make sure that results is not null
-            if (results != null) { 
-                results.close(); 
-            }
-        } catch (SQLException ex) {}
-		try { statement.close(); } catch (SQLException ex) { }
-		try { c.close(); } catch (SQLException ex) { }
+            if (results != null) { results.close(); }
+        } catch (SQLException ex) {
+            System.err.println("An SQLException occurred");
+        }
+        try { statement.close(); } catch (SQLException ex) {
+            System.err.println("An SQLException occurred");
+        }
+        try { c.close(); } catch (SQLException ex) {
+            System.err.println("An SQLException occurred");
+        }
+    
 
 		return success;
 	}
