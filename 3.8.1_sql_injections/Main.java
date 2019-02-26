@@ -3,7 +3,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.PreparedStatement;
 
 /**
  * Main execution class for sql_injection exercise. Prompts user for username
@@ -71,7 +71,7 @@ public class Main {
 	private static boolean checkPW(String username, String password) throws SQLException {
 		// declare database resources
 		Connection c = null;
-		Statement statement = null;
+        PreparedStatement statement = null;
 		ResultSet results = null;
 
 		try {
@@ -79,10 +79,11 @@ public class Main {
 			c = DriverManager.getConnection(DB_URL);
 
 			// check for the username/password in database
-			String sqlQuery = "SELECT COUNT(*) AS count FROM USERS WHERE username == '" + username
-					+ "' AND password == '" + password + "'";
-			statement = c.createStatement();
-			results = statement.executeQuery(sqlQuery);
+			String sqlQuery = "SELECT COUNT(*) AS count FROM USERS WHERE username == ? AND password == ?";
+            statement = c.prepareStatement(sqlQuery);
+            statement.setString(1, username);
+            statement.setString(2, password);
+			results = statement.executeQuery();
 
 			// if no user with that username/password, return false; otherwise must be true
 			if (results.getInt("count") == 0)

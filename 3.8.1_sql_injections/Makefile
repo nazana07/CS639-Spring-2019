@@ -11,3 +11,5 @@ clean:
 	@echo Removing output files...
 	@rm -f ./Main.class ./users.db
 
+test:
+	@java Main
