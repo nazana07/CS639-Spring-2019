@@ -80,9 +80,9 @@ public class Main {
 
 			// check for the username/password in database
 			String sqlQuery = "SELECT COUNT(*) AS count FROM USERS WHERE username == ? AND password == ?";
-            statement = c.prepareStatement(sqlQuery);
-            statement.setString(1, username);
-            statement.setString(2, password);
+            statement = c.prepareStatement(sqlQuery); // change to prepareStatement
+            statement.setString(1, username); // Set the first ? to username
+            statement.setString(2, password); // Set the second ? to password
 			results = statement.executeQuery();
 
 			// if no user with that username/password, return false; otherwise must be true
