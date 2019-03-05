@@ -44,7 +44,7 @@ public class Main {
 			try {
 				System.out.println(rDomainName2(hostname));
 			} catch (UnknownHostException e) {
-				System.out.println("unknown host");
+				System.out.println("Error: unknown host");
 			}
 		}
 	}
