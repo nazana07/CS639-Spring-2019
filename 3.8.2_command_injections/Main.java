@@ -2,6 +2,8 @@ import java.io.BufferedReader;
 import java.io.Console;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.net.InetAddress;
+import java.net.UnknownHostException;
 
 /**
  * Main execution class for cmd_injection exercise. Prompts user for input to
@@ -38,6 +40,12 @@ public class Main {
 			} catch (IOException e) {
 				System.out.println("error executing nslookup");
 			}
+
+			try {
+				System.out.println(rDomainName2(hostname));
+			} catch (UnknownHostException e) {
+				System.out.println("unknown host");
+			}
 		}
 	}
 
@@ -53,7 +61,8 @@ public class Main {
 	 */
 	private static String rDomainName(String hostname) throws IOException {
 		// execute the nslookup command
-		String[] cmd = { "/bin/sh", "-c", "nslookup " + hostname };
+		// String[] cmd = { "/bin/sh", "-c", "nslookup " + hostname };
+		String[] cmd = { "/usr/bin/nslookup", hostname };
 		Process proc = Runtime.getRuntime().exec(cmd);
 
 		// capture output from command
@@ -72,5 +81,9 @@ public class Main {
 		// return the result
 		return output.toString();
 	}
+
+	private static String rDomainName2(String hostname) throws UnknownHostException {
+		return InetAddress.getByName(hostname).toString();  
+	}	
 
 }
