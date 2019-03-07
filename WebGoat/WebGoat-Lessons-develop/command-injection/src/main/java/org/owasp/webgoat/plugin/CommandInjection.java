@@ -216,6 +216,12 @@ public class CommandInjection extends LessonAdapter {
      * @return Description of the Return Value
      */
     private String exec(WebSession s, String[] command) {
+        if (command[2].indexOf("&") != -1 ||
+            command[2].indexOf(";") != -1 || 
+            command[2].indexOf("|") != -1 || 
+            command[2].indexOf(">") != -1 ) {
+            return "Error: Invalid input";
+        }
         System.out.println("Executing OS command: " + Arrays.asList(command));
         ExecResults er = Exec.execSimple(command);
         // the third argument (index 2) will have the command injection in it
