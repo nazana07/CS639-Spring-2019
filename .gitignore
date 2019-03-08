@@ -24,3 +24,4 @@ hs_err_pid*
 .idea
 __pycache__
 cmake-build-debug
+.swp
