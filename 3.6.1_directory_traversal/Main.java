@@ -44,8 +44,19 @@ public class Main {
 	 */
 	private static int execSafeProgram(String programName) {
 		// find the program to execute
-		Path safeDir = Paths.get("safe_programs");
-		Path exePath = safeDir.resolve(programName);
+		Path safeDir = null, exePath = null;
+		try {
+			safeDir = Paths.get("safe_programs").toRealPath();
+			exePath = safeDir.resolve(programName).toRealPath();
+		} catch (IOException e) {
+			System.out.println("Cannot find path");
+			return -1;
+		}
+
+		if (!exePath.getParent().equals(safeDir)) {
+			System.out.println("Program should be in the safe_programs folder");
+			return -1;
+		}
 
 		// configure program runtime to execute ./safe_programs/programName executable
 		ProcessBuilder procBuild = new ProcessBuilder(exePath.toString());
