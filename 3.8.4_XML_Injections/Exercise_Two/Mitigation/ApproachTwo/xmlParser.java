@@ -1,8 +1,15 @@
 import org.xml.sax.helpers.XMLReaderFactory;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.StringReader;
 import java.lang.Exception;
+
 import org.xml.sax.InputSource;
 import org.xml.sax.*;
+
 import java.io.IOException;
+import java.util.Scanner;
 
 public class xmlParser {
 
@@ -13,6 +20,7 @@ public class xmlParser {
                 throw new IOException("Need a valid xml file name.");
 
             XMLReader xmlReader = XMLReaderFactory.createXMLReader();
+            xmlReader.setEntityResolver(new MyResolver());
 
             xmlReader.setContentHandler(new MyContentHandler());
 
@@ -31,7 +39,7 @@ final class MyContentHandler extends org.xml.sax.helpers.DefaultHandler implemen
     }
 
     final public void startElement(final String namespace, final String localname, final String type,
-            final org.xml.sax.Attributes attributes) throws org.xml.sax.SAXException {
+                                   final org.xml.sax.Attributes attributes) throws org.xml.sax.SAXException {
         print("startElement", type);
     }
 
@@ -45,5 +53,23 @@ final class MyContentHandler extends org.xml.sax.helpers.DefaultHandler implemen
         final String text1 = text.trim();
         if (text1.length() > 0)
             print("characters ", text1);
+    }
+}
+
+class MyResolver implements EntityResolver {
+    public InputSource resolveEntity(String publicId, String systemId) {
+        try {
+            File file = new File("whiteListForXMLXXEAccess.txt");
+            final Scanner scanner = new Scanner(file);
+            while (scanner.hasNextLine()) {
+                String lineFromFile = scanner.nextLine();
+                if (systemId.contains(lineFromFile)) {
+                    return null;
+                }
+            }
+            return new InputSource(new StringReader(""));
+        } catch (FileNotFoundException ex) {
+        }
+        return null;
     }
 }

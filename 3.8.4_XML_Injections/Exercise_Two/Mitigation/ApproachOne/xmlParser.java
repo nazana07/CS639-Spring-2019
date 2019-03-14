@@ -13,6 +13,7 @@ public class xmlParser {
                 throw new IOException("Need a valid xml file name.");
 
             XMLReader xmlReader = XMLReaderFactory.createXMLReader();
+            xmlReader.setFeature("http://xml.org/sax/features/external-general-entities", false);
 
             xmlReader.setContentHandler(new MyContentHandler());
 
