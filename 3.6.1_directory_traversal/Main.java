@@ -8,9 +8,8 @@ public class Main {
 	/**
 	 * Execute the safe program named by the first argument to this program.
 	 * 
-	 * @param args
-	 *            must be at least one non-empty string, namely the executable name
-	 *            for execSafeProgram
+	 * @param args must be at least one non-empty string, namely the executable name
+	 *             for execSafeProgram
 	 */
 	public static void main(String[] args) {
 		if (args.length < 1) {
@@ -37,12 +36,11 @@ public class Main {
 	 * working directory. Use as helper function to execute any of a pre-specified
 	 * "safe" programs found in the safe directory.
 	 * 
-	 * @param programName
-	 *            name of executable found in safe_programs
+	 * @param programName name of executable found in safe_programs
 	 * @return exit value of program or -1 if unable to start, wait for, and join
 	 *         the child process
-	 * @throws SecurityException
-	 *             if the program name tries to escape the safe directory
+	 * @throws SecurityException if the program name tries to escape the safe
+	 *                           directory
 	 */
 	private static int execSafeProgram(String programName) {
 		// find the program to execute
