@@ -1,5 +1,6 @@
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.regex.Pattern;
 
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
@@ -13,6 +14,8 @@ import javax.servlet.http.HttpSession;
  * @author Joseph Eichenhofer
  */
 public class ViewPageServlet extends HttpServlet {
+	// pattern to match usernames
+	static Pattern p = Pattern.compile("([A-Za-z0-9_-]+)");
 
 	/*
 	 * (non-Javadoc)
@@ -51,6 +54,10 @@ public class ViewPageServlet extends HttpServlet {
 			// session exists, show button clicker
 			String username = (String) session.getAttribute("username");
 			Integer clickCount = (Integer) session.getAttribute("clicks");
+
+			// check whether username matches the patten
+			if (!p.matcher(username).matches())
+				username = "Invalid username";
 
 			content.print("<h1>");
 			content.print("Welcome, ");
