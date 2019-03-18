@@ -26,6 +26,20 @@ public class DoActionServlet extends HttpServlet {
 	protected void doGet(HttpServletRequest req, HttpServletResponse res) throws IOException {
 		HttpSession session = req.getSession(false);
 
+		if (session == null) { // check whether session exists (whether logged in)
+			res.sendError(HttpServletResponse.SC_BAD_REQUEST, "You need to login first"); // error message
+			return;
+		}
+
+		String expectedToken = (String) session.getAttribute("token"); // get expected token from session
+		String actualToken = req.getParameter("token"); // get actual token from parameter
+
+		// Check whether both expected token and actual token both exist and are equal
+		if (expectedToken == null || actualToken == null || !expectedToken.equals(actualToken)) {
+			res.sendError(HttpServletResponse.SC_BAD_REQUEST, "Invalid token"); // error message
+			return;
+		}
+
 		if (session != null) {
 			Integer currCount = (Integer) session.getAttribute("clicks");
 			session.setAttribute("clicks", currCount + 1);

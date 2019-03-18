@@ -54,6 +54,7 @@ public class ViewPageServlet extends HttpServlet {
 			// session exists, show button clicker
 			String username = (String) session.getAttribute("username");
 			Integer clickCount = (Integer) session.getAttribute("clicks");
+			String token = (String) session.getAttribute("token"); // get token from session
 
 			// check whether username matches the patten
 			if (!p.matcher(username).matches())
@@ -71,7 +72,7 @@ public class ViewPageServlet extends HttpServlet {
 			content.print(" times!");
 			content.print("</p>");
 
-			content.print("<a href=\"action\">CLICK</a>");
+			content.print("<a href=\"action?token=" + token + "\">CLICK</a>"); // append token to the link
 		}
 	}
 }
