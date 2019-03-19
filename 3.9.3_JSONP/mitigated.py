@@ -28,7 +28,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def run():
-	# put your code here to request data and send data to the front end
-	return "So long, and thanks for all the fish."
+    r = requests.get("http://127.0.0.1:5000/")
+    return render_template('mitigated.html', dataToTheFrontEnd=r.json())
 if __name__ == "__main__":
     app.run(host="127.0.0.1", port=5002)

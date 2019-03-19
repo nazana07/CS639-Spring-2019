@@ -46,9 +46,9 @@ def jsonp(f):
     return decorated_function
 
 @app.route('/', methods=['GET'])
-@jsonp
+# remove the @jsonp annotation so that the data returned without using JSONP
 def test():
-    return {'foo': 'bar', "moo" : "mar"}
+    return jsonify({'foo': 'bar', "moo" : "mar"}) # add jsonify() to avoid TypeError
 
 if __name__ == "__main__":
     app.run("127.0.0.1", port=5000)
