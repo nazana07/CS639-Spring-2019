@@ -25,14 +25,11 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return render_template("index.html")
+    return render_template("evil.html")
 
 @app.route("/content", methods=["POST", "GET"])
 def run():
-    # Fill out this method to accept posts requests.
-    # Simply print the body data to show you have successfully 
-    # stolen it. You can use the pprint function to pretty print the json
-    # or simply cast it to a string and print it.
+    print(request.data) # print out the data from the request body
     return "Thank you for the data!"
 
 
