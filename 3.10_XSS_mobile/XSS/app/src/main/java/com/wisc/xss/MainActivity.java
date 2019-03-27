@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
         //create a webview object
         WebView web;
-        web = (WebView)findViewById(R.id.web1);
+        web = (WebView) findViewById(R.id.web1);
         web.getSettings().setJavaScriptEnabled(true);
         //by default, alert() does not respond in webview; so manually open JsAlert()
         web.setWebChromeClient(new WebChromeClient() {
