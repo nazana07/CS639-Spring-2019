@@ -1,6 +1,8 @@
 package security.helper;
+
 /**
  * Simple class of constants should you decide you want to use them (you should).
+ *
  * @author kivolowitz
  */
 
