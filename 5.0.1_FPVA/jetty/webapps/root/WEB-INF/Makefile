@@ -5,4 +5,5 @@ rebuild_db:
 	@rm -f db/application.db
 	@cd db && sqlite3 application.db < create_db.sql
 
-
+run:
+	cd ../../../ && java -jar start.jar

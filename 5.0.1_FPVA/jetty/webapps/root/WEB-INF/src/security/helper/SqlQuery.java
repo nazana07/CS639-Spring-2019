@@ -19,7 +19,7 @@ public class SqlQuery {
     private Connection c;
     private Statement statement;
     private ResultSet results;
-    private static final String DB_URL = "jdbc:sqlite:/Users/Shawn/Code/CS639/5.0.1_FPVA/jetty/webapps/root/WEB-INF/db/application.db";
+    private static final String DB_URL = "jdbc:sqlite:webapps/root/WEB-INF/db/application.db";
 
     public SqlQuery() {
         this.c = null;
