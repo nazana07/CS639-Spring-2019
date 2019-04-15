@@ -42,6 +42,15 @@ public class SqlQuery {
         return results;
     }
 
+    public ResultSet query(String query, String[] values) throws SQLException {
+        c = DriverManager.getConnection(DB_URL);
+        PreparedStatement s = c.prepareStatement(query);
+
+        for (int i = 1; i <= values.length; i++)
+            s.setString(i, values[i - 1]);
+        return s.executeQuery();
+    }
+
     /*
      * (non-Javadoc) Method for inserting into the database. Separated from
      * query(String query) for simplicity.

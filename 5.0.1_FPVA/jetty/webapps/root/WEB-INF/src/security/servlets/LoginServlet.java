@@ -64,14 +64,14 @@ public class LoginServlet extends HttpServlet {
             return;
         }
 
-        String sqlQuery = "SELECT COUNT(*) AS count FROM USERS WHERE USERNAME == '"
-                + username + "' AND password == '" + password + "'";
+        String sqlQuery = "SELECT COUNT(*) as count FROM USERS WHERE USERNAME == ? AND password == ?";
+        String values[] = {username, password}; 
 
         boolean login = false;
         SqlQuery sql = new SqlQuery();
 
         try {
-            ResultSet results = sql.query(sqlQuery);
+            ResultSet results = sql.query(sqlQuery, values);
             if (results.getInt("count") > 0)
                 login = true;
         } catch (SQLException e) {
