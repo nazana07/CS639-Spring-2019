@@ -21,8 +21,9 @@ public class DeleteReviewServlet extends HttpServlet {
         SqlQuery sql = new SqlQuery();
         try {
             String id = request.getParameter("reviewID");
-            String SqlQuery = "DELETE FROM REVIEWS WHERE reviewID = '" + id + "'";
-            sql.delete(SqlQuery);
+            String SqlQuery = "DELETE FROM REVIEWS WHERE reviewID = ?";
+            String[] values = {id};
+            sql.delete(SqlQuery, values);
             response.sendRedirect("/home");
         } catch (SQLException e) {
             request.setAttribute("error", e.toString());

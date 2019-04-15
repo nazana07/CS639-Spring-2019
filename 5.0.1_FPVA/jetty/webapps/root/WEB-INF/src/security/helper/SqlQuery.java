@@ -80,6 +80,14 @@ public class SqlQuery {
 
     }
 
+    public void delete(String query, String[] values) throws SQLException {
+        c = DriverManager.getConnection(DB_URL);
+        PreparedStatement s = c.prepareStatement(query);
+        for (int i = 1; i <= values.length; i++)
+            s.setString(i, values[i - 1]);
+        s.executeUpdate();
+    }
+
     /*
      * (non-Javadoc) Method to close the Sql object. Every sql object should have a
      * corresponding close() call to avoid resource leaks.
