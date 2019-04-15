@@ -18,11 +18,30 @@ public class DeleteReviewServlet extends HttpServlet {
     @Override
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         // Error checking
+        if (!CookieHelper.checkCookies(request)) {
+            System.out.println("Cookies are invalid");
+            response.sendRedirect("/index.html");
+            return;
+        }
+
+        String username = CookieHelper.getUsernameCookieName(request);
+        if (username == null) {
+            System.out.println("Session is not null but username is");
+            response.sendRedirect("/index.html");
+            return;
+        }
+
+        String id = (String) request.getParameter("reviewID");
+        if (id.equals("")) {
+            response.sendRedirect("/home");
+            return;
+        }
+        // end error checking
+
         SqlQuery sql = new SqlQuery();
         try {
-            String id = request.getParameter("reviewID");
-            String SqlQuery = "DELETE FROM REVIEWS WHERE reviewID = ?";
-            String[] values = {id};
+            String SqlQuery = "DELETE FROM REVIEWS WHERE reviewID = ? AND reviewer = ?";
+            String[] values = {id, username};
             sql.delete(SqlQuery, values);
             response.sendRedirect("/home");
         } catch (SQLException e) {
