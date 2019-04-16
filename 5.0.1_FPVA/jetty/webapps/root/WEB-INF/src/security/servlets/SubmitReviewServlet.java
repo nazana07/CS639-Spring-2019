@@ -41,7 +41,7 @@ public class SubmitReviewServlet extends HttpServlet {
         }
 
         String review = (String) request.getParameter("review");
-        if (review.equals("")) {
+        if (review.equals("") || review.contains("<") || review.contains(">")) {
             response.sendRedirect("/home");
             return;
         }
