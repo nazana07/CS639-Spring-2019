@@ -106,14 +106,14 @@ GetField (char inputline[], int *idx, char fieldname[], char value[])
 
     /*---Get field name (terminated by '='            */
     j = 0;
-    while (inputline[i] != '=')
+    while (inputline[i] != '=' && i < FIELDSIZE)
 	fieldname[j++] = inputline[i++];
     fieldname[j] =  '\000';
     i++;
 
     /*---Get field value (terminated by ',' or 0       */
     j = 0;
-    while ((inputline[i] != ',') && (inputline[i] != '\000'))
+    while ((inputline[i] != ',') && (inputline[i] != '\000') && i < FIELDSIZE)
 	value[j++] = inputline[i++];
     value[j] =  '\000';
     i++;
