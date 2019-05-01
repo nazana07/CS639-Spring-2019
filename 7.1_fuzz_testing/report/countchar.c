@@ -8,7 +8,7 @@ void initcharcount ()
     cnttable = (int *)malloc(sizeof(int) * 100000);
 }
 
-void countchar (char c)
+void countchar (unsigned char c)
 {
     int i;
 
