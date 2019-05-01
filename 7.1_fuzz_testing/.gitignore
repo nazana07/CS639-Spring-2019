@@ -1,0 +1,4 @@
+report/fuzz
+fuzz/fuzz
+report/report
+report/*.o

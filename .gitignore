@@ -26,3 +26,5 @@ __pycache__
 cmake-build-debug
 .swp
 *.iml
+
+.vscode/ipch

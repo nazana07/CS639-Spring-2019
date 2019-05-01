@@ -95,7 +95,7 @@ Search ()
 
     fprintf (stderr, "> ");
     fflush (stderr);
-    while (gets (inputline))
+    while (fgets (inputline, MAXLINESIZE, stdin) != NULL)
     {
 	len = strlen(inputline);
 	for (i=0; i< len; i++) {
