@@ -1,0 +1,770 @@
+dte=1/17/1979, typ=C150, idt=N11321, f/t=oak-local, lng=1, sel=0.9, day=0.9, dul=0.9
+dte=1/20/1979, typ=C150, idt=N11321, f/t=oak-local, lng=1, sel=1.3, day=1.3, dul=1.3
+dte=1/22/1979, typ=C150, idt=N11321, f/t=oak-local, lng=1, sel=1.3, day=1.3, dul=1.3
+dte=1/24/1979, typ=C150, idt=N11321, f/t=oak-local, lng=1, sel=1.5, day=1.5, dul=1.5
+dte=1/27/1979, typ=C150, idt=N11321, f/t=oak-local, lng=1, sel=1.5, day=1.5, hdd=0.1, dul=1.5
+dte=1/31/1979, typ=C150, idt=N11321, f/t=oak-local, lng=4, sel=1.3, day=1.3, dul=1.3
+dte=2/2/1979, typ=C150, idt=N11321, f/t=oak-local, lng=6, sel=1.6, day=1.6, dul=1.6
+dte=2/3/1979, typ=C150, idt=N11321, f/t=oak-local, lng=6, sel=1.4, day=1.4, dul=1.4
+dte=2/5/1979, typ=C150, idt=N11321, f/t=oak-local, lng=10, sel=1.7, day=1.7, dul=1.7
+dte=2/7/1979, typ=C150, idt=N11321, f/t=oak-local, lng=10, sel=1.6, day=1.6, dul=1.6
+dte=2/12/1979, typ=C150, idt=N11321, f/t=oak-local, lng=12, sel=1.8, day=1.8, dul=1.8
+dte=2/14/1979, typ=C150, idt=N11321, f/t=oak-local, lng=14, sel=1.3, day=1.3, dul=1.3
+dte=2/17/1979, typ=C150, idt=N11321, f/t=oak-local, lng=10, sel=1.7, day=1.7, dul=1.7
+dte=2/19/1979, typ=C150, idt=N11321, f/t=oak-local, lng=12, sel=2.2, day=2.2, dul=1.9, pic=0.3
+dte=2/21/1979, typ=C150, idt=N11321, f/t=oak-hwd-oak, lng=8, sel=1.1, day=1.1, dul=1.1
+*page
+dte=3/3/1979, typ=C150, idt=N11321, f/t=oak-local, lng=15, sel=1.1, day=1.1, dul=1.1
+dte=3/6/1979, typ=C172, idt=N5492H, f/t=oakdale-sac, lng=1, sel=0.8, x-c=0.8, day=0.8, dul=0.8
+dte=3/10/1979, typ=C150, idt=N11321, f/t=oak-local, lng=15, sel=1.6, day=1.6, dul=1.6
+dte=3/11/1979, typ=C150, idt=N11321, f/t=oak-lvk-oak, lng=8, sel=1.8, day=1.8, dul=1.8
+dte=3/14/1979, typ=C150, idt=N11321, f/t=oak-local, lng=12, sel=1.4, day=1.4, dul=1.0, pic=0.4
+dte=3/17/1979, typ=C150, idt=N11321, f/t=oak-local, lng=6, sel=1.5, day=1.5, dul=1.5
+dte=3/24/1979, typ=C150, idt=N1714Q, f/t=oak-local, lng=5, sel=1.7, day=1.7, dul=1.7
+dte=3/28/1979, typ=C150, idt=N1714Q, f/t=oak-fremont-oak, lng=12, sel=1.8, day=1.8, dul=1.8
+dte=3/29/1979, typ=C150, idt=N1714Q, f/t=oak-local, lng=10, sel=1.5, day=1.5, hdd=0.1, dul=1.3, pic=0.2
+dte=3/31/1979, typ=C150, idt=N1714Q, f/t=oak-local, lng=5, sel=1.2, day=1.2, pic=1.2
+dte=4/4/1979, typ=C150, idt=N11321, f/t=oak-local, lng=12, sel=2.1, day=2.1, pic=2.1
+dte=4/8/1979, typ=C150, idt=N1714Q, f/t=oak-local, lng=12, sel=1.2, day=1.2, dul=1.2
+dte=4/13/1979, typ=C150, idt=N11321, f/t=oak-sts-franklin-oak, lng=3, sel=2.9, x-c=2.9, day=2.9, hdd=0.1, dul=2.9
+dte=4/15/1979, typ=C150, idt=N11321, f/t=oak-local, lng=15, sel=1.5, day=1.5, pic=1.5
+*page
+dte=4/18/1979, typ=C150, idt=N11321, f/t=oak-turlock-sck-linds-oak, lng=6, sel=3.1, x-c=3.1, day=3.1, hdd=0.2, dul=3.1
+dte=4/22/1979, typ=C150, idt=N11321, f/t=oak-lvk-antioch-oak, lng=8, sel=2.0, day=2.0, hdd=0.3, dul=2.0
+dte=4/25/1979, typ=C150, idt=N11321, f/t=oak-mod-davis-oak, lng=3, sel=1.9, x-c=1.9, day=1.9, pic=1.9
+dte=4/29/1979, typ=C152, idt=N757LW, f/t=oak-local, lng=4, sel=1.9, day=1.9, dul=1.9
+dte=5/6/1979, typ=C152, idt=N757LW, f/t=oak-ccr-oak, lng=7, sel=1.3, day=1.3, hdd=0.2, dul=1.3
+dte=5/9/1979, typ=C152, idt=N757LW, f/t=oak-mae-cic-oak, lng=3, sel=5.3, x-c=5.3, day=5.3, pic=5.3
+dte=5/17/1979, typ=C152, idt=N757LW, f/t=oak-local, lng=10, sel=1.7, day=1.7, pic=1.7
+dte=5/20/1979, typ=C152, idt=N757LW, f/t=oak-local, lng=8, sel=1.4, day=1.4, pic=1.4
+dte=5/22/1979, typ=C152, idt=N757LW, f/t=oak-local, lng=6, sel=1.8, ngt=1.8, hdd=0.4, dul=1.8
+dte=5/25/1979, typ=C152, idt=N757LW, f/t=oak-wvi-mce-oak, lng=3, sel=3.1, x-c=3.1, day=3.1, pic=3.1
+dte=5/29/1979, typ=C150, idt=N11321, f/t=oak-kingdon-sck-tracy-oak, lng=6, sel=2.4, ngt=2.4, hdd=0.4, dul=2.4
+dte=6/7/1979, typ=C150, idt=N11321, f/t=oak-local, lng=1, sel=2.0, day=2.0, hdd=0.2, dul=2.0
+dte=6/10/1979, typ=C150, idt=N11321, f/t=oak-local, lng=7, sel=1.5, day=1.5, pic=1.5
+*page
+dte=6/17/1979, typ=C150, idt=N11321, f/t=oak-local, lng=15, sel=1.7, day=1.7, pic=1.7
+dte=6/19/1979, typ=C150, idt=N11321, f/t=oak-gnoss-oak, lng=3, sel=1.4, day=1.4, hdd=0.2, dul=1.4
+dte=6/22/1979, typ=C150, idt=N11321, f/t=oak-hwd-oak, lng=16, sel=1.4, day=1.4, pic=1.4
+dte=6/25/1979, typ=C150, idt=N11321, f/t=oak-antioch-oak, lng=7, sel=2.8, day=2.8, hdd=0.3, dul=2.8
+dte=6/27/1979, typ=C150, idt=N11321, f/t=hwd-ccr-hwd, lng=4, sel=1.5, day=1.5, hdd=0.2, pic=1.5
+dte=6/27/1979, typ=C152, idt=N757LW, f/t=oak-hwd, lng=1, sel=0.3, day=0.3, hdd=0.3, pic=0.3
+dte=6/28/1979, typ=C152, idt=N757LW, f/t=oak-local, lng=1, sel=0.9, ngt=0.9, pic=0.9
+dte=7/1/1979, typ=C172, idt=N5492H, f/t=oak-tracy-new jerusalem-oak, lng=8, sel=2.3, day=2.3, hdd=0.1, dul=2.3
+dte=7/5/1979, typ=C172, idt=N46736, f/t=oak-local, lng=6, sel=1.0, day=1.0, dul=1.0
+dte=7/5/1979, typ=C172, idt=N46736, f/t=oak-nut tree-oak, lng=2, sel=1.4, day=1.4, pic=1.4
+dte=7/6/1979, typ=C172, idt=N46736, f/t=oak-ccr-oak, lng=2, sel=0.8, day=0.8, pic=0.8
+dte=7/7/1979, typ=C172, idt=N46736, f/t=oak-ful, lng=1, sel=3.7, x-c=3.7, day=3.7, pic=3.7
+dte=7/7/1979, typ=C172, idt=N46736, f/t=oak-crq, lng=1, sel=0.8, x-c=0.8, day=0.8, pic=0.8
+dte=7/8/1979, typ=C172, idt=N46736, f/t=crq-myf-ramona-crq, lng=3, sel=1.9, day=1.9, pic=1.9
+dte=7/9/1979, typ=C172, idt=N46736, f/t=crq-ful, lng=1, sel=0.9, x-c=0.9, day=0.9, pic=0.9
+*page
+dte=7/10/1979, typ=C172, idt=N46736, f/t=ful-oak, lng=1, sel=4.4, x-c=4.4, day=1.5, ngt=2.9, pic=4.4
+dte=7/14/1979, typ=C150, idt=N11321, f/t=oak-o61, lng=1, sel=1.0, x-c=1.0, day=1.0, pic=1.0
+dte=7/15/1979, typ=C172, idt=N5492H, f/t=oak-local, lng=10, sel=1.1, day=1.1, pic=1.1
+dte=7/17/1979, typ=CT210, idt=N471GF, f/t=oak-o61, lng=0, sel=0.4, sic=0.4
+dte=7/17/1979, typ=C150, idt=N11321, f/t=o61-oak, lng=1, sel=1.3, x-c=1.3, day=1.3, pic=1.3
+dte=7/21/1979, typ=C172, idt=N46736, f/t=oak-sna, lng=1, sel=3.9, x-c=3.9, day=3.9, pic=3.9
+dte=7/24/1979, typ=C172, idt=N46736, f/t=sna-avx-sna, lng=2, sel=1.3, day=1.3, pic=1.3
+dte=7/24/1979, typ=C172, idt=N46736, f/t=sna-oak, lng=1, sel=3.7, x-c=3.7, day=0.7, ngt=3.0, pic=3.7
+dte=7/28/1979, typ=C182, idt=N759PX, f/t=oak-o61, lng=0, sel=0.4, x-c=0.4, day=0.4, dul=0.4
+dte=7/28/1979, typ=C172, idt=N5492H, f/t=o61-oak, lng=1, sel=1.1, x-c=1.1, day=1.1, pic=1.1
+dte=7/31/1979, typ=C172, idt=N5492H, f/t=oak-lvk-oak, lng=3, sel=1.2, day=0.2, ngt=1.0, pic=1.2
+dte=8/3/1979, typ=C172, idt=N46736, f/t=oak-sjc-oak, lng=2, sel=1.1, day=1.1, pic=1.1
+dte=8/6/1979, typ=C172, idt=N46736, f/t=oak-pao-oak, lng=2, sel=0.8, day=0.8, pic=0.8
+dte=8/11/1979, typ=C152, idt=N757LW, f/t=oak-lvk-oak, lng=2, sel=1.2, day=1.2, pic=1.2
+dte=8/16/1979, typ=CT210, idt=N471GF, f/t=o61-oak, lng=0, sel=0.6, sic=0.6
+*page
+dte=8/23/1979, typ=C172, idt=N5492H, f/t=oak-local, lng=1, sel=0.6, day=0.6, pic=0.6
+dte=8/24/1979, typ=C172, idt=N46736, f/t=oak-emt, lng=1, sel=3.4, x-c=3.4, day=3.4, pic=3.4
+dte=8/24/1979, typ=C172, idt=N46736, f/t=emt-ful, lng=1, sel=0.3, day=0.3, pic=0.3
+dte=8/25/1979, typ=C172, idt=N46736, f/t=ful-avx-ful, lng=2, sel=1.5, day=1.5, pic=1.5
+dte=8/27/1979, typ=C172, idt=N46736, f/t=ful-oak, lng=1, sel=4.1, x-c=4.1, day=4.1, pic=4.1
+dte=9/1/1979, typ=C172, idt=N46736, f/t=oak-lvk-oak, lng=2, sel=1.7, day=1.3, ngt=0.4, pic=1.7
+dte=9/4/1979, typ=C150, idt=N11321, f/t=oak-o61, lng=1, sel=1.1, x-c=1.1, day=1.1, pic=1.1
+dte=9/4/1979, typ=C182, idt=N759PX, f/t=o61-oak, lng=4, sel=1.0, x-c=0.4, day=0.4, dul=0.4, sic=0.6
+dte=9/6/1979, typ=C182, idt=N759PX, f/t=oak-o61, lng=1, sel=0.9, x-c=0.9, day=0.9, dul=0.9
+dte=9/10/1979, typ=C182, idt=N759PX, f/t=oak-local, lng=6, sel=1.5, day=1.5, dul=1.5
+dte=9/12/1979, typ=C182, idt=N759PX, f/t=oak-fmt-oak, lng=6, sel=1.5, day=1.5, dul=1.5
+dte=9/13/1979, typ=C182, idt=N759PX, f/t=oak-antioch-oak, lng=5, sel=1.5, day=1.5, dul=1.5
+dte=9/15/1979, typ=C182, idt=N759PX, f/t=oak-bur-sna, lng=2, sel=3.4, x-c=3.4, day=3.4, pic=3.4
+dte=9/16/1979, typ=C182, idt=N759PX, f/t=sna-avx-sna, lng=2, sel=1.2, day=1.2, pic=1.2
+*page
+dte=9/21/1979, typ=C182, idt=N759PX, f/t=sna-oak, lng=1, sel=2.7, x-c=2.7, day=2.7, pic=2.7
+dte=9/25/1979, typ=C172, idt=N5492H, f/t=oak-lvk-oak, lng=2, sel=1.0, ngt=1.0, pic=1.0
+dte=9/30/1979, typ=C150, idt=N11321, f/t=oak-local, lng=8, sel=1.2, day=1.2, pic=1.2
+dte=10/4/1979, typ=C182, idt=N759PX, f/t=oak-local, lng=8, sel=0.5, day=0.5, pic=0.5
+dte=10/8/1979, typ=CT182RG, idt=N737JN, f/t=oak-ccr-oak, lng=2, sel=0.6, day=0.6, dul=0.6
+dte=10/18/1979, typ=CT182RG, idt=N737JN, f/t=oak-ccr-oak, lng=2, sel=1.0, day=1.0, hdd=0.2, dul=1.0
+dte=10/20/1979, typ=C172, idt=N2503Y, f/t=oak-sjc, lng=1, sel=0.5, day=0.5, pic=0.5
+dte=10/20/1979, typ=C150, idt=N11321, f/t=oak-lvk-oak, lng=4, sel=1.1, day=1.1, pic=1.1
+dte=10/26/1979, typ=C172, idt=N46736, f/t=oak-local, lng=1, sel=1.1, ngt=1.1, pic=1.1
+dte=10/28/1979, typ=C172, idt=N46736, f/t=oak-tvl, lng=4, sel=2.0, x-c=2.0, day=2.0, dul=2.0
+dte=11/12/1979, typ=C150, idt=N11321, f/t=oak-o61, lng=1, sel=1.2, x-c=1.2, day=1.2, pic=1.2
+dte=11/12/1979, typ=CT210, idt=N471GF, f/t=o61-oak, lng=0, sel=0.9, x-c=0.6, day=0.6, dul=0.6, sic=0.3
+dte=11/15/1979, typ=CT210, idt=N471GF, f/t=oak-o61, lng=1, sel=1.0, x-c=1.0, day=1.0, dul=1.0
+dte=11/15/1979, typ=C182, idt=N759PX, f/t=o61-hwd, lng=1, sel=1.0, x-c=1.0, day=1.0, pic=1.0
+dte=11/15/1979, typ=C182, idt=N759PX, f/t=hwd-oak, lng=1, sel=0.5, day=0.5, dul=0.5
+*page
+dte=11/20/1979, typ=C182, idt=N759PX, f/t=oak-antioch-oak, lng=8, sel=1.5, day=1.5, pic=1.5
+dte=11/22/1979, typ=C182, idt=N759PX, f/t=oak-ful, lng=1, sel=2.6, x-c=2.6, day=2.6, pic=2.6
+dte=11/25/1979, typ=C182, idt=N759PX, f/t=ful-oak, lng=1, sel=2.9, x-c=2.9, day=2.9, pic=2.9
+dte=11/28/1979, typ=CT210, idt=N471GF, f/t=oak-lvk-lax-(lvk-oak), lng=4, sel=3.4, x-c=2.3, day=2.3, dul=2.3, sic=1.1
+dte=11/31/1979, typ=C152, idt=N757LW, f/t=oak-lvk-oak, lng=2, sel=0.9, ngt=0.9, pic=0.9
+dte=12/9/1979, typ=C152, idt=N757LW, f/t=oak-local, lng=4, sel=1.0, day=1.0, pic=1.0
+dte=12/10/1979, typ=C182, idt=N759PX, f/t=oak-local, lng=1, sel=0.9, day=0.9, pic=0.9
+dte=12/14/1979, typ=C182, idt=N759PX, f/t=oak-haf-oak, lng=2, sel=1.0, day=1.0, pic=1.0
+dte=1/7/1980, typ=C172, idt=N5492H, f/t=oak-fmt-oak, lng=8, sel=1.2, day=1.2, pic=1.2
+dte=1/17/1980, typ=CT210, idt=N471GF, f/t=oak-ccr, lng=1, sel=0.7, day=0.7, dul=0.4, sic=0.3
+dte=1/24/1980, typ=C182, idt=N759PX, f/t=oak-lax, lng=1, sel=2.6, x-c=2.6, day=2.6, pic=2.6
+dte=1/24/1980, typ=C182, idt=N759PX, f/t=lax-crq, lng=1, sel=0.9, x-c=0.9, ngt=0.9, pic=0.9
+dte=1/25/1980, typ=C182, idt=N759PX, f/t=crq-sjc, lng=1, sel=3.1, x-c=3.1, day=1.0, ngt=2.1, pic=3.1
+dte=1/25/1980, typ=C182, idt=N759PX, f/t=sjc-oak, lng=1, sel=0.4, ngt=0.4, pic=0.4
+dte=1/28/1980, typ=C172, idt=N46736, f/t=oak-lvk-oak, lng=2, sel=0.8, ngt=0.8, pic=0.8
+*page
+dte=1/29/1980, typ=CT210, idt=N471GF, f/t=oak-ccr-oak, lng=1, sel=1.2, day=0.9, dul=0.9, sic=0.3
+dte=2/4/1980, typ=C172, idt=N46736, f/t=oak-lvk-oak, lng=2, sel=0.9, ngt=0.9, pic=0.9
+dte=2/11/1980, typ=C182, idt=N759PX, f/t=oak-fmt-oak, lng=8, sel=0.9, day=0.9, pic=0.9
+dte=2/17/1980, typ=C150, idt=N11321, f/t=oak-local, lng=1, sel=1.3, day=1.3, hdd=1.1, dul=1.3
+dte=2/22/1980, typ=C152, idt=N757LW, f/t=oak-local, lng=1, sel=1.6, day=0.6, ngt=1.0, hdd=1.4, dul=1.6
+dte=2/24/1980, typ=C152, idt=N757LW, f/t=oak-local, lng=1, sel=1.5, day=1.0, ngt=0.5, hdd=1.3, dul=1.5
+dte=2/28/1980, typ=C152, idt=N757LW, f/t=oak-local, lng=1, sel=1.6, day=1.1, ngt=0.5, hdd=1.3, dul=1.6
+dte=3/1/1980, typ=C150, idt=N11321, f/t=oak-local, lng=1, sel=1.5, day=1.5, hdd=1.4, dul=1.5
+dte=3/7/1980, typ=C152, idt=N757LW, f/t=oak-local, lng=1, sel=2.4, day=1.4, ngt=1.0, hdd=2.1, dul=2.4
+dte=3/9/1980, typ=C152, idt=N757LW, f/t=oak-local, lng=1, sel=2.0, ngt=2.0, hdd=1.8, dul=2.0
+dte=3/12/1980, typ=C152, idt=N757LW, f/t=oak-local, lng=1, sel=2.5, day=1.0, ngt=1.5, hdd=2.2, dul=2.5
+dte=3/14/1980, typ=C152, idt=N757LW, f/t=oak-apc-oak, lng=2, sel=1.8, day=1.0, ngt=0.8, act=1.0, hdd=0.4, dul=1.8
+dte=3/16/1980, typ=C152, idt=N757LW, f/t=oak-local, lng=1, sel=1.8, day=1.8, hdd=1.6, dul=1.8
+dte=3/19/1980, typ=C152, idt=N757LW, f/t=oak-local, lng=1, sel=1.7, day=1.0, ngt=0.7, hdd=1.5, dul=1.7
+*page
+dte=3/21/1980, typ=C152, idt=N757LW, f/t=oak-local, lng=1, sel=1.7, day=1.2, ngt=0.5, hdd=1.5, dul=1.7
+dte=3/23/1980, typ=C172, idt=N46736, f/t=oak-rancho murieta-oak, lng=2, sel=1.9, x-c=1.9, day=1.9, pic=1.9
+dte=3/23/1980, typ=C172, idt=N46736, f/t=oak-local, lng=1, sel=1.8, ngt=1.8, hdd=1.4, dul=1.8
+dte=3/26/1980, typ=C172, idt=N46736, f/t=oak-local, lng=1, sel=2.0, day=1.5, ngt=0.5, hdd=1.8, dul=2.0
+dte=3/31/1980, typ=C182, idt=N759PX, f/t=oak-ful, lng=1, sel=2.2, x-c=2.2, day=0.8, ngt=1.4, pic=2.2
+dte=4/1/1980, typ=C182, idt=N759PX, f/t=ful-oak, lng=1, sel=2.9, x-c=2.9, day=2.9, pic=2.9
+dte=4/4/1980, typ=C172, idt=N5492H, f/t=oak-lvk-oak, lng=2, sel=0.7, ngt=0.7, pic=0.7
+dte=4/9/1980, typ=C172, idt=N5492H, f/t=oak-lvk-oak, lng=2, sel=0.7, day=0.2, ngt=0.5, pic=0.7
+dte=4/14/1980, typ=C172, idt=N5492H, f/t=oak-o61, lng=1, sel=0.9, x-c=0.9, day=0.9, pic=0.9
+dte=4/19/1980, typ=C172, idt=N46736, f/t=oak-ccr-oak, lng=1, sel=1.4, day=0.4, ngt=1.0, hdd=1.3, dul=1.4
+dte=4/20/1980, typ=C172, idt=N46736, f/t=oak-local, lng=1, sel=2.0, day=2.0, act=0.1, hdd=1.8, dul=2.0
+dte=4/26/1980, typ=C172, idt=N46736, f/t=oak-sck-oak, lng=2, sel=2.2, day=0.6, ngt=1.6, hdd=2.0, dul=2.2
+dte=4/27/1980, typ=ATC610J, idt=N761J, f/t=-, lng=0, sim=0.3
+dte=4/29/1980, typ=C182, idt=N759PX, f/t=oak-o61, lng=1, sel=1.0, x-c=1.0, day=1.0, pic=1.0
+dte=4/29/1980, typ=CT210, idt=N471GF, f/t=o61-oak, lng=0, sel=1.0, day=0.8, dul=0.8, sic=0.2
+*page
+dte=5/4/1980, typ=C172, idt=N5492H, f/t=oak-o61, lng=1, sel=1.0, x-c=1.0, day=1.0, pic=1.0
+dte=5/4/1980, typ=C172, idt=N5492H, f/t=o61-nut tree, lng=1, sel=0.9, x-c=0.9, day=0.9, pic=0.9
+dte=5/4/1980, typ=C172, idt=N5492H, f/t=nut tree-oak, lng=1, sel=0.7, day=0.7, pic=0.7
+dte=5/4/1980, typ=C172, idt=N5492H, f/t=oak-local, lng=1, sel=1.3, day=1.3, pic=1.3
+dte=5/5/1980, typ=C172, idt=N46736, f/t=oak-local, lng=1, sel=1.6, day=1.6, hdd=1.3, dul=1.6
+dte=5/14/1980, typ=C172, idt=N46736, f/t=oak-smf-suu-oak, lng=1, sel=2.6, x-c=2.3, day=1.0, ngt=1.6, hdd=2.3, dul=2.6
+dte=5/17/1980, typ=C172, idt=N46736, f/t=oak-hwd-oak, lng=1, sel=1.8, day=1.8, hdd=1.6, dul=1.8
+dte=5/18/1980, typ=C172, idt=N46736, f/t=oak-sfo-oak, lng=2, sel=1.9, day=1.9, pic=1.9
+dte=5/20/1980, typ=C172, idt=N46736, f/t=oak-bfl-oak, lng=2, sel=5.1, x-c=5.1, day=5.1, pic=5.1
+dte=5/23/1980, typ=C172, idt=N46736, f/t=oak-bfl, lng=1, sel=2.5, x-c=2.5, day=2.3, ngt=0.2, pic=2.5
+dte=5/24/1980, typ=C172, idt=N46736, f/t=bfl-wjf, lng=1, sel=1.2, x-c=1.2, day=1.2, pic=1.2
+dte=5/25/1980, typ=C172, idt=N46736, f/t=wjf-oak, lng=1, sel=3.3, x-c=3.3, day=0.8, ngt=2.5, pic=3.3
+dte=5/29/1980, typ=C172, idt=N46736, f/t=oak-mry-mce-links-oak, lng=4, sel=4.8, x-c=4.8, day=2.9, ngt=1.9, hdd=4.2, dul=4.8
+dte=6/7/1980, typ=C172, idt=N5492H, f/t=oak-local, lng=1, sel=1.1, ngt=1.1, pic=1.1
+*page
+dte=6/14/1980, typ=C172, idt=N46736, f/t=oak-local, lng=1, sel=1.6, day=1.6, hdd=1.4, dul=1.6
+dte=6/15/1980, typ=C182, idt=N759PX, f/t=oak-antioch-lvk-oak, lng=6, sel=1.7, day=1.7, pic=1.7
+dte=6/21/1980, typ=C172, idt=N46736, f/t=oak-local, lng=1, sel=2.1, day=2.1, hdd=1.9, dul=2.1
+dte=2/22/1980, typ=C182, idt=N759PX, f/t=oak-hwd-oak, lng=6, sel=0.9, day=0.9, pic=0.9
+dte=6/26/1980, typ=C172, idt=N46736, f/t=oak-local, lng=1, sel=2.0, day=2.0, hdd=1.8, dul=2.0
+dte=6/29/1980, typ=C172, idt=N46736, f/t=oak-local, lng=1, sel=1.6, day=1.6, hdd=1.4, dul=1.6
+dte=7/1/1980, typ=C172, idt=N46736, f/t=oak-hwd-oak, lng=1, sel=2.0, day=2.0, hdd=1.7, dul=2.0
+dte=7/9/1980, typ=C182, idt=N759PX, f/t=oak-lax, lng=1, sel=2.4, x-c=2.4, day=2.4, pic=2.4
+dte=7/4/1980, typ=C182, idt=N759PX, f/t=lax-ful, lng=1, sel=0.4, day=0.4, pic=0.4
+dte=7/6/1980, typ=C182, idt=N759PX, f/t=ful-oak, lng=1, sel=2.6, x-c=2.6, day=2.6, pic=2.6
+dte=7/18/1980, typ=C182, idt=N759PX, f/t=oak-sjc, lng=1, sel=0.3, day=0.3, pic=0.3
+dte=7/18/1980, typ=C182, idt=N759PX, f/t=sjc-lvk-sjc, lng=2, sel=0.5, day=0.5, pic=0.5
+dte=7/18/1980, typ=C182, idt=N759PX, f/t=sjc-oak, lng=1, sel=0.4, day=0.4, pic=0.4
+dte=7/26/1980, typ=C172, idt=N46736, f/t=oak-apc-oak, lng=1, sel=1.7, day=1.7, hdd=1.5, dul=1.7
+dte=8/6/1980, typ=C172, idt=N46736, f/t=oak-local, lng=1, sel=1.3, day=1.3, hdd=1.2, dul=1.3
+*page
+dte=8/9/1980, typ=C172, idt=N46736, f/t=oak-local, lng=1, sel=1.1, day=1.1, hdd=0.7, dul=1.1
+dte=8/17/1980, typ=C172, idt=N46736, f/t=oak-local, lng=1, sel=1.1, day=1.1, hdd=1.0, dul=1.1
+dte=8/22/1980, typ=C172, idt=N46736, f/t=oak-sjc-hwd-oak, lng=1, sel=1.6, day=1.6, hdd=1.4, dul=1.6
+dte=8/27/1980, typ=C172, idt=N46736, f/t=oak-local, lng=1, sel=1.3, day=1.3, hdd=1.1, dul=1.3
+dte=8/30/1980, typ=C182, idt=N759PX, f/t=oak-sna, lng=1, sel=2.1, x-c=2.1, day=2.1, pic=2.1
+dte=8/30/1980, typ=C182, idt=N759PX, f/t=sna-fallbrook, lng=1, sel=0.4, x-c=0.4, day=0.4, pic=0.4
+dte=8/30/1980, typ=C182, idt=N759PX, f/t=fallbrook-ful, lng=1, sel=0.5, x-c=0.5, day=0.5, pic=0.5
+dte=9/1/1980, typ=C182, idt=N759PX, f/t=ful-fallbrook, lng=1, sel=0.5, x-c=0.5, day=0.5, pic=0.5
+dte=9/1/1980, typ=C182, idt=N759PX, f/t=fallbrook-oak, lng=1, sel=2.6, x-c=2.6, day=2.6, pic=2.6
+dte=9/2/1980, typ=C172, idt=N46736, f/t=oak-apc-oak, lng=1, sel=1.9, day=1.9, hdd=1.7, dul=1.9
+dte=9/4/1980, typ=C172, idt=N46736, f/t=hwd-sjc-oak-hwd, lng=1, sel=1.6, day=1.6, hdd=1.4, pic=1.6
+dte=9/4/1980, typ=C172, idt=N46736, f/t=oak-hwd-oak, lng=2, sel=0.8, day=0.8, pic=0.8
+dte=9/7/1980, typ=C172, idt=N5160R, f/t=hnl-local, lng=1, sel=0.6, day=0.6, dul=0.6
+dte=9/7/1980, typ=C172, idt=N5160R, f/t=hnl-lih, lng=1, sel=0.9, x-c=0.9, day=0.9, act=0.1, pic=0.9
+dte=9/8/1980, typ=C172, idt=N5160R, f/t=lih-local, lng=1, sel=1.1, day=1.1, pic=1.1
+*page
+dte=9/10/1980, typ=C172, idt=N5160R, f/t=lih-koa, lng=1, sel=3.1, x-c=3.1, day=3.1, pic=3.1
+dte=9/12/1980, typ=C172, idt=N5160R, f/t=koa-hnl, lng=1, sel=2.0, x-c=2.0, day=2.0, pic=2.0
+dte=9/20/1980, typ=C182, idt=N759PX, f/t=oak-fallbrook, lng=1, sel=2.8, x-c=2.8, day=2.8, act=0.1, pic=2.8
+dte=9/20/1980, typ=C182, idt=N759PX, f/t=fallbrook-ful, lng=1, sel=0.5, x-c=0.5, ngt=0.5, act=0.2, pic=0.5
+dte=9/21/1980, typ=C182, idt=N759PX, f/t=ful-oak, lng=1, sel=2.4, x-c=2.4, ngt=2.4, pic=2.4
+dte=9/27/1980, typ=C182, idt=N759PX, f/t=oak-local, lng=1, sel=0.7, day=0.7, hdd=0.3, pic=0.7
+dte=10/12/1980, typ=C172, idt=N46736, f/t=oak-local, lng=1, sel=1.1, day=1.1, pic=1.1
+dte=10/12/1980, typ=C172, idt=N46736, f/t=oak-lvk-oak, lng=2, sel=0.9, ngt=0.9, pic=0.9
+dte=10/22/1980, typ=C172, idt=N5492H, f/t=oak-sjc-lvk-sjc-oak, lng=3, sel=2.3, day=1.3, ngt=1.0, pic=2.3
+dte=11/2/1980, typ=C172, idt=N46736, f/t=oak-sfo-oak, lng=1, sel=1.6, ngt=1.2, hdd=1.1, pic=1.2, sic=0.4
+dte=11/8/1980, typ=C182, idt=N759PX, f/t=oak-pao-lvk-pao-oak, lng=4, sel=2.1, ngt=2.1, pic=2.1
+dte=11/15/1980, typ=C172, idt=N5492H, f/t=oak-haf-oak, lng=2, sel=1.4, day=1.4, pic=1.4
+dte=11/23/1980, typ=CT210, idt=N471GF, f/t=oak-lvk-oak, lng=2, sel=1.4, ngt=1.4, hdd=0.2, dul=1.4
+dte=11/27/1980, typ=C182, idt=N759PX, f/t=oak-ful, lng=1, sel=2.9, x-c=2.9, day=2.9, pic=2.9
+dte=11/30/1980, typ=C182, idt=N759PX, f/t=ful-oak, lng=1, sel=3.2, x-c=3.2, day=0.6, ngt=2.6, act=0.1, pic=3.2
+*page
+dte=12/28/1980, typ=C152, idt=N757LW, f/t=oak-local, lng=4, sel=1.4, day=1.4, act=0.1, pic=1.4
+dte=1/10/1981, typ=CT210, idt=N471GF, f/t=oak-local, lng=7, sel=1.6, day=1.6, dul=1.6
+dte=1/14/1981, typ=CT210, idt=N471GF, f/t=oak-sru-oak, lng=6, sel=1.5, day=1.5, act=0.3, dul=1.5
+dte=1/19/1981, typ=CT210, idt=N471GF, f/t=oak-haf-oak, lng=2, sel=1.3, day=0.8, ngt=0.5, dul=1.3
+dte=2/5/1981, typ=C172, idt=N5492H, f/t=oak-lvk-oak, lng=2, sel=1.3, ngt=1.3, pic=1.3
+dte=2/7/1981, typ=CT210, idt=N471GF, f/t=oak-ccr-oak, lng=2, sel=1.4, day=1.4, hdd=1.0, dul=1.4
+dte=2/8/1981, typ=CT210, idt=N471GF, f/t=oak-sac-oak, lng=2, sel=1.7, day=1.7, act=1.0, hdd=0.4, dul=1.7
+dte=2/22/1981, typ=CT210, idt=N471GF, f/t=oak-sck-lvk-oak, lng=2, sel=1.5, day=1.5, hdd=1.3, dul=1.5
+dte=2/26/1981, typ=CT210, idt=N471GF, f/t=oak-sql-hwd-oak, lng=5, sel=1.3, day=1.3, hdd=0.5, dul=1.3
+dte=3/3/1981, typ=CT210, idt=N471GF, f/t=oak-trk-oak, lng=2, sel=2.7, x-c=2.7, day=2.7, act=0.2, pic=2.7
+dte=3/7/1981, typ=CT210, idt=N471GF, f/t=oak-sjc-lvk-sjc-oak, lng=4, sel=2.3, ngt=2.3, act=0.4, pic=2.3
+dte=3/14/1981, typ=CT210, idt=N471GF, f/t=oak-sjc-mammoth lakes-sjc-oak, lng=4, sel=4.1, x-c=4.1, day=4.1, act=0.1, pic=4.1
+dte=3/31/1981, typ=C152, idt=N757LW, f/t=oak-hwd-oak, lng=0, sel=0.3, sic=0.3
+dte=3/31/1981, typ=C172, idt=N5492H, f/t=oak-ccr-oak, lng=1, sel=1.4, day=1.4, act=0.1, hdd=0.8, pic=1.4
+dte=4/2/1981, typ=C150, idt=N11321, f/t=oak-hwd-oak, lng=4, sel=0.9, day=0.9, pic=0.9
+*page
+dte=4/5/1981, typ=C172, idt=N5492H, f/t=oak-new jerusalem-lodi-westover-oak, lng=8, sel=3.4, x-c=1.2, day=3.4, pic=3.4
+dte=4/7/1981, typ=C152, idt=N757LW, f/t=oak-fat-oak, lng=9, sel=4.0, x-c=3.5, day=4.0, pic=4.0
+dte=4/10/1981, typ=C150, idt=N11321, f/t=oak-haf-oak, lng=3, sel=1.9, day=1.9, pic=1.9
+dte=4/13/1981, typ=CT210, idt=N471GF, f/t=oak-wgf, lng=1, sel=2.3, x-c=2.3, day=2.0, ngt=0.3, pic=2.3
+dte=4/14/1981, typ=CT210, idt=N471GF, f/t=wgf-oak, lng=1, sel=1.9, x-c=1.9, day=1.9, pic=1.9
+dte=4/17/1981, typ=CT210, idt=N471GF, f/t=oak-ful, lng=1, sel=3.0, x-c=3.0, day=2.7, ngt=0.3, act=0.2, pic=3.0
+dte=4/19/1981, typ=CT210, idt=N471GF, f/t=ful-oak, lng=1, sel=2.7, x-c=2.7, day=2.7, act=0.6, pic=2.7
+dte=5/8/1981, typ=C172, idt=N5492H, f/t=oak-fmt-hwd-oak, lng=4, sel=0.8, day=0.8, pic=0.8
+dte=5/17/1981, typ=CT210, idt=N471GF, f/t=oak-columbia-oak, lng=2, sel=1.8, x-c=1.8, day=1.8, hdd=0.5, pic=1.8
+dte=5/30/1981, typ=CT210, idt=N471GF, f/t=oak-rancho murieta-o60-oak, lng=3, sel=2.7, x-c=2.7, day=2.7, pic=2.7
+dte=6/5/1981, typ=C172, idt=N5492H, f/t=toa-ful, lng=1, sel=0.6, ngt=0.6, act=0.3, pic=0.6
+dte=6/7/1981, typ=C172, idt=N5492H, f/t=ful-toa-sjc, lng=2, sel=4.2, x-c=4.2, day=4.2, pic=4.2
+dte=6/18/1981, typ=C152, idt=N757LW, f/t=medicino-oak, lng=1, sel=1.3, x-c=1.3, day=1.3, pic=1.3
+dte=6/30/1981, typ=CT210, idt=N471GF, f/t=oak-avx, lng=1, sel=2.6, x-c=2.6, day=2.6, act=0.1, pic=2.6
+dte=7/2/1981, typ=CT210, idt=N471GF, f/t=avx-sba-oak, lng=1, sel=2.5, x-c=2.5, day=2.5, pic=2.5
+*page
+dte=7/4/1981, typ=CT210, idt=N471GF, f/t=oak-columbia, lng=1, sel=0.9, x-c=0.9, day=0.9, pic=0.9
+dte=7/9/1981, typ=CT210, idt=N471GF, f/t=oak-haf-oak, lng=1, sel=1.3, day=0.7, ngt=0.6, pic=1.3
+dte=7/14/1981, typ=CT210, idt=N471GF, f/t=oak-local, lng=1, sel=0.8, day=0.8, pic=0.8
+dte=7/16/1981, typ=CT210, idt=N471GF, f/t=oak-ful, lng=1, sel=2.6, x-c=2.6, day=2.6, pic=2.6
+dte=7/16/1981, typ=CT210, idt=N471GF, f/t=ful-bur, lng=1, sel=0.7, day=0.7, pic=0.7
+dte=7/17/1981, typ=CT210, idt=N471GF, f/t=bur-bur, lng=1, sel=0.4, ngt=0.4, pic=0.4
+dte=7/26/1981, typ=C150, idt=N11321, f/t=oak-o60, lng=1, sel=1.5, x-c=1.5, day=1.5, act=0.1, hdd=0.9, pic=1.5
+dte=7/26/1981, typ=C150, idt=N11321, f/t=o60-local, lng=3, sel=0.3, day=0.3, pic=0.3
+dte=8/10/1981, typ=CT210, idt=N471GF, f/t=bur-oak, lng=1, sel=2.4, x-c=2.4, day=2.4, pic=2.4
+dte=8/13/1981, typ=C172, idt=N5492H, f/t=oak-ccr-nut tree-oak, lng=1, sel=2.1, day=2.1, hdd=2.0, pic=2.1
+dte=8/15/1981, typ=PA28-236, idt=N2897N, f/t=oak-tracy-oak, lng=5, sel=1.4, day=1.4, hdd=0.3, dul=1.4
+dte=8/21/1981, typ=PA28-236, idt=N2897N, f/t=oak-lvk-oak, lng=2, sel=1.1, day=1.1, pic=1.1
+dte=8/25/1981, typ=C152, idt=N757LW, f/t=oak-lvk-oak, lng=2, sel=1.0, day=0.5, ngt=0.5, pic=1.0
+dte=8/27/1981, typ=PA28-236, idt=N2897N, f/t=oak-bur, lng=1, sel=2.6, x-c=2.6, day=2.6, act=0.1, pic=2.6
+dte=8/31/1981, typ=PA28-236, idt=N2897N, f/t=bur-oak, lng=1, sel=2.4, x-c=2.4, day=2.4, act=0.1, pic=2.4
+*page
+dte=9/14/1981, typ=CT210, idt=N471GF, f/t=oak-lvk-oak, lng=4, sel=1.2, day=1.2, act=0.2, pic=1.2
+dte=9/14/1981, typ=ATC610J, idt=-, f/t=-, lng=0, sim=1.2
+dte=9/15/1981, typ=CT210, idt=N471GF, f/t=oak-sjc-hwd-oak, lng=1, sel=1.2, day=1.2, hdd=1.0, pic=1.2
+dte=9/23/1981, typ=C172, idt=N5492H, f/t=oak-lvk-oak, lng=2, sel=1.9, day=1.0, ngt=0.9, pic=1.9
+dte=9/26/1981, typ=PA28-236, idt=N2897N, f/t=oak-local, lng=1, sel=0.6, day=0.6, pic=0.6
+dte=9/26/1981, typ=PA28-161, idt=N3037E, f/t=oak-local, lng=4, sel=0.8, day=0.8, dul=0.8
+dte=10/4/1981, typ=CT210, idt=N471GF, f/t=oak-local, lng=1, sel=1.4, day=1.4, pic=1.4
+dte=10/5/1981, typ=PA28-161, idt=N3037E, f/t=oak-lvk-oak, lng=2, sel=1.6, day=1.0, ngt=0.6, pic=1.6
+dte=10/18/1981, typ=CT210, idt=N471GF, f/t=oak-sjc-lvk-sjc-oak, lng=4, sel=2.1, day=0.8, ngt=1.3, pic=2.1
+dte=10/24/1981, typ=CT210, idt=N471GF, f/t=oak-nut tree-oak, lng=2, sel=2.0, day=2.0, act=0.6, pic=2.0
+dte=11/6/1981, typ=CT210, idt=N471GF, f/t=oak-bur, lng=1, sel=2.4, x-c=2.4, day=2.4, act=0.6, pic=2.4
+dte=11/9/1981, typ=CT210, idt=N471GF, f/t=bur-oak, lng=1, sel=2.0, x-c=2.0, day=2.0, pic=2.0
+dte=11/16/1981, typ=CT210, idt=N471GF, f/t=oak-lvk-oak, lng=2, sel=1.1, ngt=1.1, act=0.5, pic=1.1
+dte=11/25/1981, typ=CT210, idt=N471GF, f/t=oak-sba-ful, lng=2, sel=2.9, x-c=2.9, day=2.4, ngt=0.5, act=0.1, pic=2.9
+dte=11/29/1981, typ=CT210, idt=N471GF, f/t=ful-sba-oak, lng=2, sel=3.2, x-c=3.2, day=1.8, ngt=1.4, act=0.2, pic=3.2
+*page
+dte=12/3/1981, typ=PA28-161, idt=N3037E, f/t=oak-local, lng=1, sel=1.0, ngt=1.0, pic=1.0
+dte=1/7/1982, typ=C150, idt=N11321, f/t=oak-local, lng=1, sel=1.2, day=1.2, dul=1.2
+dte=1/8/1982, typ=CT210, idt=N471GF, f/t=oak-mod, lng=1, sel=0.6, x-c=0.6, day=0.6, pic=0.6
+dte=1/10/1982, typ=CT210, idt=N471GF, f/t=mod-oak, lng=1, sel=1.0, x-c=1.0, day=1.0, pic=1.0
+dte=1/30/1982, typ=PA28-161, idt=N3037E, f/t=oak-local, lng=1, sel=0.7, ngt=0.7, pic=0.7
+dte=2/1/1982, typ=CT210, idt=N471GF, f/t=oak-haf-oak, lng=2, sel=1.2, ngt=1.2, pic=1.2
+dte=2/2/1982, typ=CT210, idt=N471GF, f/t=oak-lvk-oak, lng=2, sel=1.0, day=1.0, pic=1.0
+dte=2/4/1982, typ=CT210, idt=N471GF, f/t=oak-lvk-oak, lng=2, sel=0.6, day=0.6, pic=0.6
+dte=2/21/1982, typ=CT210, idt=N471GF, f/t=oak-trk, lng=1, sel=1.3, x-c=1.3, day=1.3, hdd=1.0, dul=1.3
+dte=2/21/1982, typ=CT210, idt=N471GF, f/t=trk-oak, lng=0, sel=0.9, sic=0.9
+dte=3/5/1982, typ=PA28-236, idt=N2897N, f/t=oak-haf-oak, lng=2, sel=1.2, ngt=1.2, pic=1.2
+dte=3/20/1982, typ=PA28-236, idt=N2897N, f/t=oak-mod, lng=1, sel=0.7, x-c=0.7, day=0.7, pic=0.7
+dte=3/21/1982, typ=PA28-236, idt=N2897N, f/t=mod-oak, lng=1, sel=1.0, x-c=1.0, day=1.0, pic=1.0
+dte=3/23/1982, typ=CT210, idt=N471GF, f/t=oak-o88-ccr-oak, lng=3, sel=1.9, x-c=0.5, day=1.9, hdd=0.8, dul=1.9
+dte=3/27/1982, typ=CT210, idt=N471GF, f/t=oak-mod, lng=1, sel=0.9, x-c=0.9, ngt=0.9, act=0.1, pic=0.9
+*page
+dte=3/28/1982, typ=CT210, idt=N471GF, f/t=mod-tij, lng=1, sel=2.9, x-c=2.9, day=2.9, act=1.0, pic=2.9
+dte=3/28/1982, typ=CT210, idt=N471GF, f/t=tij-gym, lng=1, sel=3.1, x-c=3.1, day=3.1, act=0.3, pic=3.1
+dte=4/4/1982, typ=CT210, idt=N471GF, f/t=gym-cxl, lng=1, sel=2.8, x-c=2.8, day=2.8, pic=2.8
+dte=4/4/1982, typ=CT210, idt=N471GF, f/t=cxl-mod, lng=1, sel=3.9, x-c=3.9, day=3.9, act=0.2, pic=3.9
+dte=4/4/1982, typ=CT210, idt=N471GF, f/t=mod-oak, lng=1, sel=0.7, x-c=0.7, day=0.7, pic=0.7
+dte=4/17/1982, typ=C172, idt=N5492H, f/t=oak-sjc-sac, lng=2, sel=1.9, x-c=1.9, day=1.9, hdd=0.9, pic=1.9
+dte=4/19/1982, typ=CT210, idt=N471GF, f/t=oak-local, lng=1, sel=0.7, ngt=0.7, pic=0.7
+dte=4/20/1982, typ=CT210, idt=N471GF, f/t=oak-o61-oak, lng=2, sel=1.1, x-c=1.1, ngt=1.1, pic=1.1
+dte=5/5/1982, typ=PA28-161, idt=N3037E, f/t=oak-lvk-oak, lng=2, sel=0.9, x-c=0.9, day=0.4, ngt=0.5, act=0.1, pic=0.9
+dte=5/9/1982, typ=PA28-161, idt=N3037E, f/t=oak-uki, lng=1, sel=1.5, x-c=0.9, day=1.5, hdd=1.2, pic=1.5
+dte=5/19/1982, typ=CT210, idt=N471GF, f/t=oak-haf-oak, lng=2, sel=1.0, day=0.5, ngt=0.5, pic=1.0
+dte=5/27/1982, typ=PA28-161, idt=N3037E, f/t=oak-local, lng=1, sel=0.9, ngt=0.9, pic=0.9
+dte=5/29/1982, typ=C150, idt=N11321, f/t=oak-sac-oak, lng=2, sel=2.1, x-c=2.1, day=2.1, act=0.2, pic=2.1
+dte=5/30/1982, typ=CT210, idt=N471GF, f/t=oak-sjc-wvi-sjc-oak, lng=4, sel=2.0, day=2.0, act=0.2, pic=2.0
+dte=6/5/1982, typ=PA28-161, idt=N3037E, f/t=oak-haf-oak, lng=2, sel=1.2, day=0.5, ngt=0.7, act=0.1, pic=1.2
+*page
+dte=5/23/1982, typ=CT210, idt=N471GF, f/t=oak-antioch-oak, lng=4, sel=1.4, day=1.4, act=0.2, pic=1.4
+dte=5/25/1982, typ=CT210, idt=N471GF, f/t=oak-lvk-oak, lng=2, sel=0.8, day=0.8, pic=0.8
+dte=5/27/1982, typ=PA28-161, idt=N3037E, f/t=antioch-oak, lng=0, sel=0.5, sic=0.5
+dte=5/29/1982, typ=CT210, idt=N471GF, f/t=oak-local, lng=1, sel=0.6, day=0.6, pic=0.6
+dte=7/4/1982, typ=PA28-236, idt=N2897N, f/t=oak-south county-oak, lng=2, sel=2.0, x-c=2.0, day=0.7, ngt=1.3, pic=2.0
+dte=7/5/1982, typ=C152, idt=N757LW, f/t=oak-lvk-oak, lng=4, sel=1.2, day=1.2, pic=1.2
+dte=7/18/1982, typ=CT210, idt=N471GF, f/t=oak-o60, lng=1, sel=0.9, x-c=0.9, day=0.9, act=0.1, pic=0.9
+dte=7/18/1982, typ=C152, idt=N757LW, f/t=o60-local, lng=3, sel=0.2, day=0.2, pic=0.2
+dte=7/23/1982, typ=CT210, idt=N471GF, f/t=oak-ful, lng=1, sel=2.4, x-c=2.4, day=2.4, act=0.1, pic=2.4
+dte=7/26/1982, typ=CT210, idt=N471GF, f/t=ful-oak, lng=1, sel=2.2, x-c=2.2, day=2.2, act=0.2, pic=2.2
+dte=7/28/1982, typ=CT210, idt=N471GF, f/t=oak-oak, lng=1, sel=1.8, day=1.8, act=0.3, pic=1.8
+dte=7/30/1982, typ=CT210, idt=N471GF, f/t=oak-local, lng=1, sel=0.5, day=0.5, act=0.1, pic=0.5
+dte=8/3/1982, typ=C172, idt=N52440, f/t=1v5-local, lng=3, sel=0.7, day=0.7, dul=0.7
+dte=8/3/1982, typ=C172, idt=N52440, f/t=1v5-local, lng=1, sel=1.0, day=1.0, pic=1.0
+dte=8/3/1982, typ=C172, idt=N52440, f/t=1v5-local, lng=2, sel=0.9, day=0.9, pic=0.9
+*page
+dte=8/11/1982, typ=C172, idt=N5492H, f/t=oak-lvk-oak, lng=2, sel=1.3, day=0.6, ngt=0.7, act=0.1, pic=1.3
+dte=8/21/1982, typ=PA28-236, idt=N2897N, f/t=oak-lvk-oak, lng=2, sel=1.1, ngt=1.1, act=0.1, pic=1.1
+dte=8/24/1982, typ=PA28-236, idt=N2897N, f/t=oak-lvk-oak, lng=2, sel=0.7, ngt=0.7, act=0.2, pic=0.7
+dte=8/24/1982, typ=PA28-236, idt=N2897N, f/t=oak-lvk-oak, lng=2, sel=0.8, ngt=0.8, act=0.2, pic=0.8
+dte=8/24/1982, typ=PA28-236, idt=N2897N, f/t=oak-lvk-oak, lng=2, sel=0.7, ngt=0.7, act=0.2, pic=0.7
+dte=8/24/1982, typ=PA28-236, idt=N2897N, f/t=oak-lvk-oak, lng=2, sel=0.7, ngt=0.7, act=0.2, pic=0.7
+dte=8/24/1982, typ=PA28-236, idt=N2897N, f/t=oak-lvk-oak, lng=2, sel=0.7, ngt=0.7, act=0.2, pic=0.7
+dte=8/24/1982, typ=PA28-236, idt=N2897N, f/t=oak-lvk-oak, lng=2, sel=0.7, ngt=0.7, act=0.2, pic=0.7
+dte=8/28/1982, typ=CT210, idt=N471GF, f/t=oak-local, lng=1, sel=0.3, day=0.3, pic=0.3
+dte=8/29/1982, typ=CT210, idt=N471GF, f/t=oak-mmh-oak, lng=2, sel=3.5, x-c=3.5, day=3.5, hdd=1.6, pic=3.5
+dte=9/11/1982, typ=CT210, idt=N471GF, f/t=oak-ful, lng=1, sel=2.6, x-c=2.6, day=2.6, act=0.2, pic=2.6
+dte=9/13/1982, typ=CT210, idt=N471GF, f/t=ful-oak, lng=1, sel=2.6, x-c=2.6, day=2.6, act=0.2, pic=2.6
+dte=9/19/1982, typ=CT210, idt=N471GF, f/t=oak-local, lng=3, sel=1.5, day=1.5, hdd=0.7, pic=1.5
+dte=9/28/1982, typ=C172, idt=N5492H, f/t=oak-haf-oak, lng=2, sel=1.3, ngt=1.3, pic=1.3
+dte=10/2/1982, typ=CT210, idt=N471GF, f/t=oak-haf-oak, lng=2, sel=1.2, ngt=1.2, pic=1.2
+*page
+dte=10/13/1982, typ=CT210, idt=N471GF, f/t=oak-lvk-oak, lng=3, sel=1.3, ngt=1.3, pic=1.3
+dte=10/30/1982, typ=PA28-161, idt=N3037E, f/t=oak-local, lng=1, sel=0.6, ngt=0.6, pic=0.6
+dte=11/5/1982, typ=PA28-161, idt=N3037E, f/t=oak-local, lng=1, sel=1.5, ngt=1.5, hdd=1.4, pic=1.5
+dte=11/11/1982, typ=C172, idt=N5492H, f/t=oak-o61-oak, lng=2, sel=2.3, x-c=2.3, day=2.3, act=0.1, pic=2.3
+dte=11/23/1982, typ=CT210, idt=N471GF, f/t=oak-local, lng=5, sel=0.5, day=0.5, pic=0.5
+dte=11/25/1982, typ=CT210, idt=N471GF, f/t=oak-ful, lng=1, sel=2.3, x-c=2.3, day=2.3, pic=2.3
+dte=11/28/1982, typ=CT210, idt=N471GF, f/t=ful-oak, lng=1, sel=3.4, x-c=3.4, day=2.4, ngt=1.0, act=1.2, pic=3.4
+dte=12/24/1982, typ=CT210, idt=N471GF, f/t=oak-uki, lng=1, sel=1.0, x-c=1.0, ngt=1.0, pic=1.0
+dte=12/25/1982, typ=CT210, idt=N471GF, f/t=uki-oak, lng=1, sel=0.9, x-c=0.9, day=0.9, pic=0.9
+dte=12/31/1982, typ=C150, idt=N11321, f/t=oak-haf-oak, lng=2, sel=1.4, ngt=1.4, pic=1.4
+dte=1/21/1983, typ=C172, idt=N5492H, f/t=o61-oak, lng=1, sel=1.1, x-c=1.1, day=1.1, hdd=1.0, pic=1.1
+dte=1/30/1983, typ=Bell 47G2, idt=N90485, f/t=oak-local, lng=4, hel=0.4, day=0.4, dul=0.4
+dte=2/10/1983, typ=C150, idt=N11321, f/t=oak-o61, lng=1, sel=1.2, x-c=1.2, day=1.2, hdd=0.8, pic=1.2
+dte=2/10/1983, typ=C172, idt=N5492H, f/t=o61-oak, lng=1, sel=1.1, x-c=1.1, day=1.1, pic=1.1
+dte=2/16/1983, typ=C152, idt=N757LW, f/t=oak-lvk-oak, lng=2, sel=1.8, ngt=1.8, pic=1.8
+*page
+dte=2/19/1983, typ=CT210, idt=N471GF, f/t=oak-trk, lng=1, sel=1.6, x-c=1.6, day=1.6, hdd=1.3, dul=1.6
+dte=2/19/1983, typ=PA28-236, idt=N2897N, f/t=trk-oak, lng=0, sel=0.8, sic=0.8
+dte=3/14/1983, typ=PA28-161, idt=N3037E, f/t=oak-haf-oak, lng=2, sel=1.2, ngt=1.2, act=0.2, pic=1.2
+dte=3/15/1983, typ=CT210, idt=N471GF, f/t=oak-lvk-oak, lng=2, sel=1.0, day=1.0, act=0.4, pic=1.0
+dte=3/20/1983, typ=CT210, idt=N471GF, f/t=oak-gcn, lng=1, sel=3.7, x-c=3.7, day=3.7, act=1.5, pic=3.7
+dte=3/26/1983, typ=CT210, idt=N471GF, f/t=gcn-oak, lng=1, sel=3.8, x-c=3.8, day=3.8, act=0.4, pic=3.8
+dte=3/28/1983, typ=CT210, idt=N471GF, f/t=oak-sba-ful, lng=1, sel=2.3, x-c=2.3, day=2.3, pic=2.3
+dte=3/29/1983, typ=CT210, idt=N471GF, f/t=ful-sba-oak, lng=1, sel=3.1, x-c=3.1, day=3.1, pic=3.1
+dte=4/4/1983, typ=C150, idt=N11321, f/t=oak-haf-oak, lng=2, sel=1.5, ngt=1.5, act=0.4, pic=1.5
+dte=4/6/1983, typ=PA28-236, idt=N2897N, f/t=oak-haf-oak, lng=2, sel=1.2, day=0.7, ngt=0.5, pic=1.2
+dte=4/13/1983, typ=CT210, idt=N471GF, f/t=oak-haf-oak, lng=2, sel=1.1, day=0.7, ngt=0.4, pic=1.1
+dte=4/16/1983, typ=Bell 47G2, idt=N953, f/t=oak-lvk-oak, lng=2, hel=1.0, day=1.0, dul=1.0
+dte=4/22/1983, typ=PA28-236, idt=N2897N, f/t=oak-local, lng=1, sel=0.5, day=0.5, pic=0.5
+dte=6/4/1983, typ=PA28-236, idt=N2897N, f/t=oak-mce, lng=1, sel=1.0, x-c=1.0, day=1.0, act=0.1, pic=1.0
+dte=6/4/1983, typ=PA28-236, idt=N2897N, f/t=mce-oak, lng=0, sel=1.1, x-c=0.7, day=0.7, pic=0.7, sic=0.4
+*page
+dte=6/11/1983, typ=C172, idt=N5492H, f/t=oak-lvk-oak, lng=0, sel=0.2, sic=0.2
+dte=6/14/1983, typ=C172, idt=N5492H, f/t=oak-lvk-oak, lng=2, sel=1.2, day=0.7, ngt=0.5, pic=1.2
+dte=6/22/1983, typ=C172, idt=N5492H, f/t=oak-local, lng=15, sel=1.3, day=1.3, dul=1.3
+dte=6/30/1983, typ=C172, idt=N5492H, f/t=oak-local, lng=10, sel=1.4, day=1.4, dul=1.4
+dte=7/3/1983, typ=C172, idt=N5492H, f/t=oak-local, lng=8, sel=1.3, day=1.3, pic=1.3
+dte=7/4/1983, typ=C172, idt=N5492H, f/t=oak-haf-apc-oak, lng=3, sel=2.9, day=1.5, ngt=1.4, pic=2.9
+dte=7/8/1983, typ=C152, idt=N6507H, f/t=oak-lvk-oak, lng=2, sel=1.3, day=1.3, dul=1.3
+dte=7/8/1983, typ=CT210, idt=N471GF, f/t=oak-local, lng=1, sel=0.8, day=0.8, hdd=0.3, dul=0.8
+dte=7/13/1983, typ=C172, idt=N5492H, f/t=oak-local, lng=4, sel=1.1, day=1.1, dul=1.1
+dte=7/17/1983, typ=C172, idt=N5492H, f/t=oak-lvk-oak, lng=8, sel=1.2, day=1.2, pic=1.2
+dte=7/19/1983, typ=C172, idt=N5492H, f/t=oak-local, lng=6, sel=1.2, day=1.2, pic=1.2
+dte=7/27/1983, typ=C172, idt=N5492H, f/t=oak-local, lng=8, sel=0.6, day=0.6, dul=0.6
+dte=7/23/1983, typ=C172, idt=N5492H, f/t=oak-o60-oak, lng=2, sel=2.0, x-c=2.0, day=2.0, pic=2.0
+dte=7/23/1983, typ=C152, idt=N757LW, f/t=o60-local, lng=3, sel=0.3, day=0.3, pic=0.3
+dte=7/29/1983, typ=C172, idt=N5492H, f/t=oak-o61, lng=1, sel=1.2, x-c=1.2, day=1.2, pic=1.2
+*page
+dte=7/29/1983, typ=C152, idt=N6507H, f/t=o61-oak, lng=1, sel=1.2, x-c=1.2, day=1.2, hdd=1.1, pic=1.2
+dte=8/2/1983, typ=C172, idt=N1976F, f/t=oak-local, lng=1, sel=1.0, day=1.0, hdd=0.6, dul=1.0
+dte=8/30/1983, typ=C172, idt=N5492H, f/t=oak-local, lng=8, sel=1.4, day=1.4, dul=1.4
+dte=9/9/1983, typ=C172, idt=N5492H, f/t=oak-lvk-oak, lng=8, sel=1.5, day=1.5, pic=1.5
+dte=9/11/1983, typ=C172, idt=N5492H, f/t=oak-lvk-oak, lng=8, sel=1.5, day=1.5, pic=1.5
+dte=9/12/1983, typ=CT210, idt=N471GF, f/t=oak-local, lng=8, sel=0.8, day=0.8, pic=0.8
+dte=9/13/1983, typ=CT210, idt=N471GF, f/t=oak-local, lng=1, sel=1.4, day=1.4, hdd=1.2, dul=1.4
+dte=9/18/1983, typ=CT210, idt=N471GF, f/t=oak-local, lng=2, sel=1.2, day=1.2, hdd=1.0, dul=1.2
+dte=9/20/1983, typ=C172, idt=N5492H, f/t=oak-local, lng=15, sel=1.4, day=1.4, dul=1.4
+dte=9/23/1983, typ=CT210, idt=N471GF, f/t=oak-ful, lng=1, sel=2.3, x-c=2.3, day=2.3, pic=2.3
+dte=9/25/1983, typ=CT210, idt=N471GF, f/t=ful-oak, lng=1, sel=2.4, x-c=2.4, day=2.4, pic=2.4
+dte=9/27/1983, typ=CT210, idt=N471GF, f/t=oak-lvk, lng=1, sel=0.6, day=0.6, pic=0.6
+dte=10/6/1983, typ=C172, idt=N5492H, f/t=oak-local, lng=6, sel=1.3, day=1.3, dul=1.3
+dte=10/9/1983, typ=C172, idt=N5492H, f/t=oak-local, lng=1, sel=1.4, day=1.4, pic=1.4
+dte=10/27/1983, typ=C172, idt=N5492H, f/t=oak-local, lng=1, sel=1.1, day=1.1, pic=1.1
+*page
+dte=11/2/1983, typ=C172, idt=N5492H, f/t=oak-lvk-oak, lng=2, sel=1.3, day=1.3, pic=1.3
+dte=11/5/1983, typ=C172, idt=N5492H, f/t=oak-local, lng=1, sel=1.2, day=1.2, pic=1.2
+dte=11/19/1983, typ=PA28-161, idt=N3037E, f/t=sfo-oak, lng=1, sel=0.4, day=0.4, pic=0.4
+dte=11/22/1983, typ=C172, idt=N5492H, f/t=oak-pao-oak, lng=2, sel=0.7, day=0.7, pic=0.7
+dte=12/29/1983, typ=C172, idt=N5492H, f/t=oak-lvk-oak, lng=2, sel=2.0, day=2.0, act=0.3, pic=2.0
+dte=3/1/1984, typ=PA28-236, idt=N2897N, f/t=oak-local, lng=6, sel=0.5, day=0.5, pic=0.5
+dte=3/2/1984, typ=PA28-161, idt=N3037E, f/t=oak-haf-oak, lng=2, sel=1.2, ngt=1.2, pic=1.2
+dte=4/8/1984, typ=PA28-161, idt=N3037E, f/t=oak-local, lng=1, sel=1.4, ngt=1.4, hdd=1.3, dul=1.4
+dte=4/9/1984, typ=PA28-236, idt=N2897N, f/t=oak-crq, lng=1, sel=3.3, x-c=3.3, day=0.7, ngt=2.6, pic=3.3
+dte=4/10/1984, typ=PA28-236, idt=N2897N, f/t=crq-smo, lng=1, sel=0.9, x-c=0.9, ngt=0.9, act=0.2, pic=0.9
+dte=4/11/1984, typ=PA28-236, idt=N2897N, f/t=smo-oak, lng=1, sel=2.6, x-c=2.6, ngt=2.6, pic=2.6
+dte=4/12/1984, typ=PA28-161, idt=N3037E, f/t=oak-lvk-oak, lng=2, sel=1.5, day=1.0, ngt=0.5, pic=1.5
+dte=5/14/1984, typ=PA28-236, idt=N2897N, f/t=oak-smo-oak, lng=2, sel=5.6, x-c=5.6, day=2.7, ngt=2.9, act=0.3, pic=5.6
+dte=8/15/1984, typ=PA28-161, idt=N3037E, f/t=oak-lvk-oak, lng=8, sel=1.1, day=1.1, pic=1.1
+dte=8/18/1984, typ=C152, idt=N757LW, f/t=oak-060, lng=1, sel=1.0, x-c=1.0, day=1.0, pic=1.0
+*page
+dte=8/18/1984, typ=C172, idt=N1134U, f/t=o60-oak, lng=1, sel=1.0, x-c=1.0, day=1.0, pic=1.0
+dte=11/23/1984, typ=C172, idt=N65614, f/t=msn-local, lng=3, sel=0.9, day=0.9, dul=0.9
+dte=11/25/1984, typ=C172, idt=N64012, f/t=msn-morey-msn, lng=4, sel=0.9, day=0.9, pic=0.9
+dte=12/30/1984, typ=C172, idt=N65614, f/t=msn-local, lng=1, sel=1.4, day=1.4, pic=1.4
+dte=1/23/1985, typ=C172, idt=N478LM, f/t=msn-local, lng=1, sel=1.4, day=1.4, hdd=1.2, dul=1.4
+dte=2/2/1985, typ=C152, idt=N48836, f/t=msn-local, lng=1, sel=1.1, day=1.1, hdd=0.9, dul=1.1
+dte=2/6/1985, typ=C172, idt=N738LM, f/t=msn-local, lng=1, sel=1.5, day=1.5, dul=1.5
+dte=2/9/1985, typ=C152, idt=N48836, f/t=msn-local, lng=4, sel=1.3, day=1.3, dul=1.3
+dte=2/13/1985, typ=C152, idt=N48836, f/t=msn-local, lng=1, sel=1.1, day=1.1, pic=1.1
+dte=2/16/1985, typ=C152, idt=N48836, f/t=msn-local, lng=4, sel=1.0, day=1.0, dul=1.0
+dte=2/17/1985, typ=C172, idt=N738LM, f/t=msn-local, lng=1, sel=0.7, day=0.7, pic=0.7
+dte=2/20/1985, typ=C152, idt=N757PG, f/t=msn-local, lng=3, sel=0.6, day=0.6, dul=0.6
+dte=2/27/1985, typ=C172RG, idt=N246ET, f/t=msn-local, lng=5, sel=1.2, day=1.2, dul=1.2
+dte=3/2/1985, typ=C172RG, idt=N246ET, f/t=msn-local, lng=1, sel=1.4, day=1.4, dul=1.4
+dte=3/6/1985, typ=C172RG, idt=N246ET, f/t=msn-local, lng=1, sel=1.1, day=1.1, dul=1.1
+*page
+dte=3/8/1985, typ=C172RG, idt=N246ET, f/t=msn-morey-msn, lng=5, sel=1.0, day=1.0, pic=1.0
+dte=3/9/1985, typ=C172RG, idt=N246ET, f/t=msn-local, lng=3, sel=1.1, day=1.1, dul=1.1
+dte=3/14/1985, typ=C172RG, idt=N246ET, f/t=msn-local, lng=1, sel=1.0, day=1.0, pic=1.0
+dte=3/16/1985, typ=C172RG, idt=N9531B, f/t=msn-local, lng=1, sel=1.3, day=1.3, dul=1.3
+dte=3/16/1985, typ=C172RG, idt=N9531B, f/t=msn-local, lng=4, sel=1.3, day=1.3, pic=1.3
+dte=4/13/1985, typ=C152, idt=N48836, f/t=msn-local, lng=4, sel=0.6, day=0.6, dul=0.6
+dte=4/15/1985, typ=AA5B, idt=N81317, f/t=msn-sauk prairie-msn, lng=7, sel=1.2, day=1.2, dul=1.2
+dte=4/20/1985, typ=AA5B, idt=N81317, f/t=msn-local, lng=1, sel=1.0, day=1.0, pic=1.0
+dte=4/22/1985, typ=C152, idt=N48836, f/t=msn-local, lng=3, sel=0.4, day=0.4, dul=0.4
+dte=4/27/1985, typ=C152, idt=N48836, f/t=msn-local, lng=5, sel=0.8, day=0.8, pic=0.8
+dte=5/1/1985, typ=AA5B, idt=N81317, f/t=msn-local, lng=4, sel=0.6, day=0.6, pic=0.6
+dte=5/4/1985, typ=C172, idt=N738LM, f/t=msn-dodgeville-msn, lng=2, sel=1.3, day=1.3, pic=1.3
+dte=5/13/1985, typ=AA5B, idt=N81317, f/t=msn-oma-msn, lng=2, sel=6.3, x-c=6.3, day=6.3, act=4.5, pic=6.3
+dte=5/20/1985, typ=C152, idt=N48836, f/t=msn-local, lng=1, sel=0.9, day=0.9, pic=0.9
+dte=6/7/1985, typ=C152, idt=N48836, f/t=msn-morey-msn, lng=6, sel=1.0, day=1.0, pic=1.0
+*page
+dte=6/9/1985, typ=C152, idt=N48836, f/t=msn-morey-msn, lng=4, sel=0.9, day=0.9, pic=0.9
+dte=6/23/1985, typ=C152, idt=N48836, f/t=msn-local, lng=5, sel=1.0, day=1.0, pic=1.0
+dte=6/24/1985, typ=C152, idt=N48836, f/t=msn-local, lng=3, sel=1.1, day=1.1, dul=1.1
+dte=6/28/1985, typ=C152, idt=N48836, f/t=msn-lodi-msn, lng=2, sel=1.0, day=1.0, pic=1.0
+dte=7/2/1985, typ=C152, idt=N48836, f/t=msn-local, lng=1, sel=1.0, day=1.0, dul=1.0
+dte=7/7/1985, typ=C152, idt=N48836, f/t=msn-local, lng=1, sel=1.1, day=1.1, pic=1.1
+dte=7/11/1985, typ=C152, idt=N48836, f/t=msn-local, lng=3, sel=1.2, day=1.2, dul=1.2
+dte=9/8/1985, typ=C172, idt=N738LM, f/t=msn-palwaukee-msn, lng=2, sel=2.3, x-c=2.3, day=2.3, pic=2.3
+dte=10/13/1985, typ=C152, idt=N48836, f/t=msn-local, lng=10, sel=0.9, day=0.9, pic=0.9
+dte=10/25/1985, typ=C172, idt=N738LM, f/t=msn-local, lng=4, sel=1.2, day=1.2, act=1.0, pic=1.2
+dte=11/3/1985, typ=C172, idt=N738LM, f/t=msn-local, lng=1, sel=1.4, day=1.4, act=0.7, hdd=0.6, pic=1.4
+dte=11/7/1985, typ=AA5B, idt=N81317, f/t=msn-local, lng=4, sel=0.9, ngt=0.9, hdd=0.5, pic=0.9
+dte=11/17/1985, typ=C172, idt=N738LM, f/t=msn-dodgeville-msn, lng=2, sel=1.5, day=1.5, pic=1.5
+dte=12/7/1985, typ=PA28-161, idt=N9040K, f/t=msn-local, lng=0, sel=1.7, day=0.3, hdd=0.3, pic=0.3, sic=1.4
+dte=12/20/1985, typ=PA28-161, idt=N9040K, f/t=msn-stp-msn, lng=1, sel=4.2, x-c=1.4, day=0.4, ngt=1.0, hdd=1.4, pic=1.4, sic=2.8
+*page
+dte=1/9/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.8, day=0.8, pic=0.8
+dte=1/9/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.0, day=1.0, hdd=0.4, dul=1.0
+dte=1/10/1986, typ=CT182RG, idt=N738CU, f/t=msn-cgx, lng=1, sel=1.4, x-c=1.4, day=1.4, pic=1.4
+dte=1/11/1986, typ=CT182RG, idt=N738CU, f/t=cgx-msn, lng=1, sel=1.6, x-c=1.6, day=1.6, pic=1.6
+dte=1/30/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.2, day=1.2, pic=1.2
+dte=2/11/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.3, day=0.3, pic=0.3
+dte=2/13/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.7, day=1.7, pic=1.7
+dte=2/15/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.3, day=1.3, pic=1.3
+dte=3/6/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.7, day=1.7, hdd=1.5, dul=1.7
+dte=3/7/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.4, day=1.4, pic=1.4
+dte=3/22/1986, typ=CT182RG, idt=N738CU, f/t=msn-fdy-dca, lng=2, sel=5.4, x-c=5.4, day=5.4, pic=5.4
+dte=3/26/1986, typ=CT182RG, idt=N738CU, f/t=dca-mmu, lng=1, sel=1.5, x-c=1.5, day=1.5, pic=1.5
+dte=3/28/1986, typ=CT182RG, idt=N738CU, f/t=mmu-bdr, lng=1, sel=1.0, x-c=1.0, day=1.0, pic=1.0
+dte=3/31/1986, typ=CT182RG, idt=N738CU, f/t=bdr-cgf, lng=1, sel=3.4, x-c=3.4, day=3.4, pic=3.4
+dte=3/31/1986, typ=CT182RG, idt=N738CU, f/t=cgf-msn, lng=1, sel=3.4, x-c=3.4, day=3.4, pic=3.4
+*page
+dte=4/6/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.6, day=0.6, act=0.3, pic=0.6
+dte=4/12/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=5, sel=0.7, day=0.7, pic=0.7
+dte=4/13/1986, typ=CT182RG, idt=N738CU, f/t=msn-cgx-msn, lng=2, sel=2.2, x-c=2.2, day=2.2, pic=2.2
+dte=4/17/1986, typ=CT182RG, idt=N738CU, f/t=msn-iow-msn, lng=2, sel=2.5, x-c=2.5, day=2.0, ngt=0.5, pic=2.5
+dte=4/27/1986, typ=CT182RG, idt=N738CU, f/t=msn-morey-msn, lng=2, sel=0.8, day=0.8, pic=0.8
+dte=5/10/1986, typ=CT182RG, idt=N738CU, f/t=msn-sauk city-msn, lng=2, sel=1.0, day=1.0, pic=1.0
+dte=5/16/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.8, day=0.8, pic=0.8
+dte=5/22/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.1, day=1.1, act=0.7, hdd=0.3, pic=1.1
+dte=5/24/1986, typ=CT182RG, idt=N738CU, f/t=msn-cgx, lng=1, sel=1.3, x-c=1.3, day=1.3, pic=1.3
+dte=5/25/1986, typ=CT182RG, idt=N738CU, f/t=cgx-msn, lng=1, sel=1.3, x-c=1.3, day=1.3, act=0.2, pic=1.3
+dte=5/30/1986, typ=CT182RG, idt=N738CU, f/t=msn-ryv-msn, lng=4, sel=0.9, day=0.9, pic=0.9
+dte=6/1/1986, typ=CT182RG, idt=N738CU, f/t=msn-baraboo-msn, lng=2, sel=1.2, day=1.2, pic=1.2
+dte=6/2/1986, typ=PA28-161, idt=N9040K, f/t=msn-local, lng=0, sel=0.8, sic=0.8
+dte=6/3/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.6, day=1.6, pic=1.6
+dte=6/4/1986, typ=CT182RG, idt=N738CU, f/t=msn-cmi-msn, lng=2, sel=3.4, x-c=3.4, day=3.2, ngt=0.2, act=0.7, pic=3.4
+*page
+dte=6/13/1986, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=2, sel=1.1, day=1.1, pic=1.1
+dte=6/15/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.3, day=1.3, act=1.0, pic=1.3
+dte=6/18/1986, typ=CT182RG, idt=N738CU, f/t=msn-morey-msn, lng=5, sel=1.0, day=1.0, pic=1.0
+dte=6/19/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=3, sel=0.8, day=0.8, pic=0.8
+dte=6/27/1986, typ=CT182RG, idt=N738CU, f/t=msn-wi32, lng=1, sel=2.1, x-c=2.1, day=2.1, act=0.1, pic=2.1
+dte=6/28/1986, typ=CT182RG, idt=N738CU, f/t=wi32-asx-msn, lng=2, sel=2.2, x-c=2.2, day=2.2, pic=2.2
+dte=7/5/1986, typ=CT182RG, idt=N738CU, f/t=msn-cgx-msn, lng=2, sel=2.1, x-c=2.1, day=2.1, act=0.1, pic=2.1
+dte=7/6/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.4, day=0.4, pic=0.4
+dte=7/11/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.5, day=1.5, pic=1.5
+dte=7/18/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=5, sel=1.0, day=1.0, pic=1.0
+dte=7/20/1986, typ=CT182RG, idt=N738CU, f/t=msn-47c-msn, lng=2, sel=1.5, x-c=1.5, day=1.5, pic=1.5
+dte=7/24/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.7, day=0.7, pic=0.7
+dte=7/31/1986, typ=CT182RG, idt=N738CU, f/t=msn-osh, lng=1, sel=0.8, x-c=0.8, day=0.8, pic=0.8
+dte=8/1/1986, typ=CT182RG, idt=N738CU, f/t=osh-msn, lng=1, sel=0.8, x-c=0.8, day=0.8, pic=0.8
+dte=8/12/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=5, sel=0.8, day=0.8, pic=0.8
+dte=8/16/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.8, day=0.8, pic=0.8
+*page
+dte=8/18/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.8, day=0.8, pic=0.8
+dte=8/20/1986, typ=CT182RG, idt=N738CU, f/t=msn-dpa, lng=1, sel=1.1, x-c=1.1, day=1.1, pic=1.1
+dte=8/21/1986, typ=CT182RG, idt=N738CU, f/t=dpa-msn, lng=1, sel=1.0, x-c=1.0, day=1.0, act=0.4, pic=1.0
+dte=8/30/1986, typ=CT182RG, idt=N738CU, f/t=msn-pdc-msn, lng=2, sel=1.7, x-c=1.7, day=1.7, act=0.1, pic=1.7
+dte=9/5/1986, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=4, sel=1.2, day=1.2, pic=1.2
+dte=9/7/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=6, sel=0.7, day=0.7, pic=0.7
+dte=9/13/1986, typ=CT182RG, idt=N738CU, f/t=msn-wi32-asx-msn, lng=3, sel=4.2, x-c=3.7, day=4.2, act=0.3, pic=4.2
+dte=9/12/1986, typ=CT182RG, idt=N738CU, f/t=msn-waunakee-msn, lng=4, sel=0.7, day=0.7, pic=0.7
+dte=9/26/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=3, sel=0.4, day=0.4, pic=0.4
+dte=9/27/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.7, day=1.7, hdd=1.5, dul=1.7
+dte=10/1/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.6, day=1.6, hdd=1.4, dul=1.6
+dte=10/5/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.0, day=1.0, act=0.4, hdd=0.5, pic=1.0
+dte=10/11/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=3, sel=0.6, day=0.6, pic=0.6
+*page
+dte=10/16/1986, typ=CT182RG, idt=N738CU, f/t=msn-laf, lng=1, sel=1.8, x-c=1.8, day=1.8, pic=1.8
+dte=10/17/1986, typ=CT182RG, idt=N738CU, f/t=laf-msn, lng=1, sel=1.8, x-c=1.8, day=1.6, ngt=0.2, act=0.1, pic=1.8
+dte=11/1/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.4, day=1.4, pic=1.4
+dte=11/15/1986, typ=CT182RG, idt=N738CU, f/t=msn-ryv-msn, lng=4, sel=1.0, day=1.0, pic=1.0
+dte=11/22/1986, typ=CT182RG, idt=N738CU, f/t=msn-marshfield-msn, lng=2, sel=2.1, x-c=2.1, day=2.1, pic=2.1
+dte=11/29/1986, typ=CT182RG, idt=N738CU, f/t=msn-lakelawn-msn, lng=2, sel=1.6, day=1.6, act=0.3, pic=1.6
+dte=12/6/1986, typ=CT182RG, idt=N738CU, f/t=msn-blackhawk-msn, lng=5, sel=0.9, day=0.9, pic=0.9
+dte=12/14/1986, typ=CT182RG, idt=N738CU, f/t=msn-jvl-msn, lng=4, sel=1.2, day=1.2, pic=1.2
+dte=12/20/1986, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.0, day=1.0, pic=1.0
+dte=12/23/1986, typ=CT182RG, idt=N738CU, f/t=msn-olu-1v5, lng=2, sel=6.1, x-c=6.1, day=6.1, act=0.1, pic=6.1
+dte=12/27/1986, typ=CT182RG, idt=N738CU, f/t=1v5-local, lng=1, sel=0.8, day=0.8, pic=0.8
+dte=12/29/1986, typ=CT182RG, idt=N738CU, f/t=1v5-olu, lng=1, sel=2.9, x-c=2.9, day=2.9, act=0.3, pic=2.9
+dte=12/30/1986, typ=CT182RG, idt=N738CU, f/t=olu-msn, lng=1, sel=2.7, x-c=2.7, day=2.7, act=0.2, pic=2.7
+dte=1/11/1987, typ=CT182RG, idt=N738CU, f/t=msn-ryv-msn, lng=6, sel=1.3, day=1.3, pic=1.3
+dte=1/13/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.6, day=0.6, pic=0.6
+*page
+dte=1/18/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.9, day=0.9, pic=0.9
+dte=1/31/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.5, day=1.5, pic=1.5
+dte=2/2/1987, typ=CT182RG, idt=N738CU, f/t=msn-fyv-black hawk-msn, lng=4, sel=1.3, day=1.3, pic=1.3
+dte=2/7/1987, typ=CT182RG, idt=N738CU, f/t=msn-iow, lng=1, sel=1.4, x-c=1.4, day=1.4, pic=1.4
+dte=2/7/1987, typ=CT182RG, idt=N738CU, f/t=iow-local, lng=1, sel=0.5, day=0.5, pic=0.5
+dte=2/7/1987, typ=CT182RG, idt=N738CU, f/t=iow-msn, lng=1, sel=1.2, x-c=1.2, day=1.2, pic=1.2
+dte=2/15/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.9, day=0.9, pic=0.9
+dte=2/23/1987, typ=CT182RG, idt=N738CU, f/t=msn-ryv-msn, lng=5, sel=1.4, day=1.4, pic=1.4
+dte=3/7/1987, typ=CT182RG, idt=N738CU, f/t=msn-cgx-msn, lng=2, sel=2.2, x-c=2.2, day=2.2, pic=2.2
+dte=3/28/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=5, sel=1.3, day=1.3, hdd=0.4, dul=1.3, pic=1.3
+dte=4/3/1987, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=5, sel=1.2, day=1.2, pic=1.2
+dte=4/11/1987, typ=CT182RG, idt=N738CU, f/t=msn-c35-msn, lng=2, sel=1.0, day=1.0, pic=1.0
+dte=4/12/1987, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=4, sel=1.0, day=1.0, pic=1.0
+dte=4/17/1987, typ=CT182RG, idt=N738CU, f/t=msn-rrl-msn, lng=2, sel=2.2, x-c=2.2, day=2.2, pic=2.2
+dte=4/19/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.7, day=0.7, pic=0.7
+*page
+dte=4/25/1987, typ=CT182RG, idt=N738CU, f/t=msn-ryv-msn, lng=3, sel=1.2, day=1.2, pic=1.2
+dte=4/29/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.0, day=1.0, pic=1.0
+dte=5/9/1987, typ=CT182RG, idt=N738CU, f/t=msn-locl, lng=1, sel=0.9, day=0.9, pic=0.9
+dte=5/12/1987, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=4, sel=0.9, day=0.9, pic=0.9
+dte=5/14/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.2, day=0.2, pic=0.2
+dte=5/15/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.0, day=1.0, pic=1.0
+dte=5/22/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.1, day=1.1, act=0.3, pic=1.1
+dte=5/26/1987, typ=CT182RG, idt=N738CU, f/t=msn-sgf, lng=1, sel=3.5, x-c=3.5, day=3.5, act=0.4, pic=3.5
+dte=5/26/1987, typ=CT182RG, idt=N738CU, f/t=sgf-lfk, lng=1, sel=3.6, x-c=3.6, day=3.6, act=0.6, pic=3.6
+dte=5/27/1987, typ=CT182RG, idt=N738CU, f/t=lfk-mam, lng=1, sel=3.3, x-c=3.3, day=3.3, act=1.0, pic=3.3
+dte=5/27/1987, typ=CT182RG, idt=N738CU, f/t=mam-ver, lng=1, sel=3.5, x-c=3.5, day=3.5, act=0.3, pic=3.5
+dte=5/28/1987, typ=CT182RG, idt=N738CU, f/t=ver-vsa, lng=1, sel=1.6, x-c=1.6, day=1.6, pic=1.6
+dte=5/28/1987, typ=CT182RG, idt=N738CU, f/t=vsa-mid, lng=1, sel=2.0, x-c=2.0, day=2.0, pic=2.0
+dte=5/30/1987, typ=CT182RG, idt=N738CU, f/t=mid-chichen itza, lng=1, sel=0.7, x-c=0.7, day=0.7, pic=0.7
+dte=6/3/1987, typ=CT182RG, idt=N738CU, f/t=chicen itza-isla mujeres, lng=1, sel=1.3, x-c=1.3, day=1.3, pic=1.3
+*page
+dte=6/5/1987, typ=CT182RG, idt=N738CU, f/t=isla mujeres-cun, lng=1, sel=0.4, day=0.4, pic=0.4
+dte=6/5/1987, typ=CT182RG, idt=N738CU, f/t=cun-vsa, lng=1, sel=3.0, x-c=3.0, day=3.0, act=1.0, pic=3.0
+dte=6/7/1987, typ=CT182RG, idt=N738CU, f/t=vsa-tam, lng=1, sel=3.4, x-c=3.4, day=3.4, act=1.1, pic=3.4
+dte=6/9/1987, typ=CT182RG, idt=N738CU, f/t=tam-mam, lng=1, sel=2.8, x-c=2.8, day=2.8, pic=2.8
+dte=6/9/1987, typ=CT182RG, idt=N738CU, f/t=mam-bro, lng=1, sel=0.3, day=0.3, pic=0.3
+dte=6/10/1987, typ=CT182RG, idt=N738CU, f/t=bro-lfk, lng=1, sel=2.8, x-c=2.8, day=2.8, act=1.0, pic=2.8
+dte=6/10/1987, typ=CT182RG, idt=N738CU, f/t=lfk-sgf, lng=1, sel=2.7, x-c=2.7, day=2.7, act=1.5, pic=2.7
+dte=6/10/1987, typ=CT182RG, idt=N738CU, f/t=sgf-msn, lng=1, sel=2.9, x-c=2.9, day=2.9, act=1.0, pic=2.9
+dte=6/19/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.2, day=1.2, act=0.3, pic=1.2
+dte=6/26/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=9, sel=1.3, day=1.3, pic=1.3
+dte=6/28/1987, typ=CT182RG, idt=N738CU, f/t=msn-cgx-msn, lng=2, sel=2.2, x-c=2.2, day=2.2, pic=2.2
+dte=7/3/1987, typ=CT182RG, idt=N738CU, f/t=msn-mwc-cgx, lng=2, sel=1.5, x-c=1.5, day=1.5, pic=1.5
+dte=7/4/1987, typ=CT182RG, idt=N738CU, f/t=cgx-mwc-msn, lng=2, sel=1.5, x-c=1.5, day=1.5, pic=1.5
+dte=7/14/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.3, day=1.3, hdd=1.1, pic=1.3
+dte=7/19/1987, typ=CT182RG, idt=N738CU, f/t=msn-jvl-msn, lng=2, sel=1.2, day=1.2, act=0.2, pic=1.2
+*page
+dte=7/26/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=2, sel=1.3, day=1.3, pic=1.3
+dte=7/29/1987, typ=CT182RG, idt=N738CU, f/t=msn-osh, lng=1, sel=0.6, x-c=0.6, day=0.6, pic=0.6
+dte=8/1/1987, typ=CT182RG, idt=N738CU, f/t=osh-msn, lng=1, sel=1.1, x-c=1.1, day=1.1, pic=1.1
+dte=8/6/1987, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=4, sel=1.0, day=1.0, pic=1.0
+dte=8/15/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.1, day=1.1, pic=1.1
+dte=8/15/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.7, day=0.7, pic=0.7
+dte=8/18/1987, typ=CT182RG, idt=N738CU, f/t=msn-dpa-msn, lng=2, sel=2.1, x-c=2.1, day=2.1, act=0.3, pic=2.1
+dte=8/23/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.0, day=1.0, pic=1.0
+dte=8/31/1987, typ=CT182RG, idt=N738CU, f/t=msn-sgx, lng=1, sel=2.2, x-c=2.2, day=2.2, pic=2.2
+dte=9/1/1987, typ=CT182RG, idt=N738CU, f/t=sgx-msn, lng=1, sel=2.1, x-c=2.1, day=2.1, pic=2.1
+dte=9/12/1987, typ=CT182RG, idt=N738CU, f/t=msn-cgx, lng=1, sel=1.1, x-c=1.1, day=1.1, pic=1.1
+dte=9/13/1987, typ=CT182RG, idt=N738CU, f/t=cgx-msn, lng=1, sel=1.1, x-c=1.1, day=1.1, act=0.1, pic=1.1
+dte=9/18/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.2, day=1.2, act=0.8, hdd=0.1, pic=1.2
+dte=9/20/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.6, day=0.6, pic=0.6
+dte=9/27/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.9, day=0.9, pic=0.9
+*page
+dte=10/2/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.4, day=0.4, pic=0.4
+dte=10/4/1987, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=2, sel=1.0, day=1.0, pic=1.0
+dte=10/5/1987, typ=CT182RG, idt=N738CU, f/t=msn-lou, lng=1, sel=2.8, x-c=2.8, day=2.8, pic=2.8
+dte=10/5/1987, typ=CT182RG, idt=N738CU, f/t=lou-dbn, lng=1, sel=2.2, x-c=2.2, day=2.2, pic=2.2
+dte=10/5/1987, typ=CT182RG, idt=N738CU, f/t=dbn-ism, lng=1, sel=2.4, x-c=2.4, day=2.4, pic=2.4
+dte=10/8/1987, typ=CT182RG, idt=N738CU, f/t=ism-local, lng=1, sel=1.2, day=1.2, pic=1.2
+dte=10/9/1987, typ=CT182RG, idt=N738CU, f/t=ism-dbn, lng=1, sel=2.2, x-c=2.2, day=2.2, pic=2.2
+dte=10/9/1987, typ=CT182RG, idt=N738CU, f/t=dbn-lou, lng=1, sel=3.0, x-c=3.0, day=3.0, act=0.1, pic=3.0
+dte=10/9/1987, typ=CT182RG, idt=N738CU, f/t=lou-msn, lng=1, sel=3.1, x-c=3.1, day=3.1, act=0.4, pic=3.1
+dte=10/30/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=6, sel=1.1, day=1.1, pic=1.1
+dte=10/31/1987, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=4, sel=1.0, day=1.0, pic=1.0
+dte=11/6/1987, typ=CT182RG, idt=N738CU, f/t=msn-ryv-msn, lng=3, sel=0.9, day=0.9, pic=0.9
+dte=11/8/1987, typ=CT182RG, idt=N738CU, f/t=msn-stl, lng=1, sel=2.4, x-c=2.4, day=2.4, act=1.4, pic=2.4
+dte=11/8/1987, typ=CT182RG, idt=N738CU, f/t=stl-mlc, lng=1, sel=3.3, x-c=3.3, day=3.3, act=2.0, pic=3.3
+dte=11/9/1987, typ=CT182RG, idt=N738CU, f/t=mlc-aus, lng=1, sel=2.3, x-c=2.3, day=2.3, act=1.8, pic=2.3
+*page
+dte=11/11/1987, typ=CT182RG, idt=N738CU, f/t=aus-mlc, lng=1, sel=2.7, x-c=2.7, day=2.7, pic=2.7
+dte=11/11/1987, typ=CT182RG, idt=N738CU, f/t=mlc-stl, lng=1, sel=2.7, x-c=2.7, day=2.7, pic=2.7
+dte=11/11/1987, typ=CT182RG, idt=N738CU, f/t=stl-msn, lng=1, sel=2.3, x-c=2.3, day=2.3, pic=2.3
+dte=11/21/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.8, day=0.8, pic=0.8
+dte=12/4/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.9, day=0.9, pic=0.9
+dte=12/11/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=3, sel=0.7, day=0.7, pic=0.7
+dte=12/11/1987, typ=PA28-161, idt=N9040K, f/t=msn-local, lng=0, sic=0.9
+dte=12/22/1987, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.9, day=0.9, pic=0.9
+dte=12/27/1987, typ=CT182RG, idt=N738CU, f/t=msn-wi06-msn, lng=2, sel=1.2, day=1.2, pic=1.2
+dte=1/16/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.8, day=0.8, act=0.4, pic=0.8
+dte=1/28/1988, typ=CT182RG, idt=N738CU, f/t=msn-ord, lng=1, sel=1.1, x-c=1.1, day=1.1, pic=1.1
+dte=1/29/1988, typ=CT182RG, idt=N738CU, f/t=ord-msn, lng=1, sel=1.1, x-c=1.1, day=1.1, pic=1.1
+dte=2/13/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.0, day=1.0, pic=1.0
+dte=2/18/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=6, sel=1.0, day=1.0, pic=1.0
+dte=2/26/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.3, day=0.3, pic=0.3
+dte=2/28/1988, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=2, sel=1.0, day=1.0, pic=1.0
+dte=3/10/1988, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-dodgeville-msn, lng=6, sel=1.8, day=1.8, hdd=1.0, dul=1.8
+dte=3/17/1988, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=3, sel=0.9, day=0.9, pic=0.9
+dte=3/18/1988, typ=CT182RG, idt=N738CU, f/t=msn-cgx, lng=1, sel=0.9, x-c=0.9, day=0.9, act=0.2, pic=0.9
+dte=3/20/1988, typ=CT182RG, idt=N738CU, f/t=cgx-msn, lng=1, sel=0.9, x-c=0.9, day=0.9, pic=0.9
+dte=3/24/1988, typ=CT182RG, idt=N738CU, f/t=msn-baraboo-msn, lng=6, sel=1.8, day=1.8, dul=1.8, pic=1.8
+dte=4/4/1988, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=3, sel=0.9, day=0.9, pic=0.9
+dte=4/16/1988, typ=CT182RG, idt=N738CU, f/t=msn-baraboo-msn, lng=2, sel=1.5, day=1.5, pic=1.5
+dte=4/24/1988, typ=CT182RG, idt=N738CU, f/t=msn-ryv-msn, lng=4, sel=0.9, day=0.9, pic=0.9
+dte=4/29/1988, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=3, sel=0.7, day=0.7, pic=0.7
+dte=5/1/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=3, sel=2.0, day=2.0, pic=2.0
+dte=5/12/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.6, day=0.6, pic=0.6
+dte=5/14/1988, typ=CT182RG, idt=N738CU, f/t=msn-ryv-msn, lng=3, sel=2.4, day=2.4, hdd=2.0, dul=2.4, pic=2.4
+dte=5/20/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.6, day=0.6, pic=0.6
+dte=5/22/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.5, day=0.5, pic=0.5
+dte=5/24/1988, typ=CT182RG, idt=N738CU, f/t=msn-bie, lng=1, sel=2.6, x-c=2.6, day=2.6, pic=2.6
+dte=5/24/1988, typ=CT182RG, idt=N738CU, f/t=bie-cek, lng=1, sel=0.8, day=0.8, pic=0.8
+dte=5/24/1988, typ=CT182RG, idt=N738CU, f/t=cek-pub, lng=1, sel=3.0, x-c=3.0, day=3.0, act=0.3, pic=3.0
+dte=5/25/1988, typ=CT182RG, idt=N738CU, f/t=pub-gcn, lng=1, sel=3.3, x-c=3.3, day=3.3, act=0.3, pic=3.3
+dte=5/30/1988, typ=CT182RG, idt=N738CU, f/t=gcn-ful, lng=1, sel=2.9, x-c=2.9, day=2.9, act=0.4, pic=2.9
+dte=6/5/1988, typ=CT182RG, idt=N738CU, f/t=ful-sba, lng=1, sel=1.0, x-c=1.0, day=1.0, act=0.3, pic=1.0
+dte=6/6/1988, typ=CT182RG, idt=N738CU, f/t=sba-mry, lng=1, sel=1.6, x-c=1.6, day=1.6, act=0.3, pic=1.6
+dte=6/11/1988, typ=CT182RG, idt=N738CU, f/t=mry-sjc, lng=1, sel=0.8, day=0.8, act=0.2, pic=0.8
+dte=6/16/1988, typ=CT182RG, idt=N738CU, f/t=sjc-eko, lng=1, sel=3.0, x-c=3.0, day=3.0, act=0.2, pic=3.0
+dte=6/16/1988, typ=CT182RG, idt=N738CU, f/t=eko-rwl, lng=1, sel=2.9, x-c=2.9, day=2.9, pic=2.9
+dte=6/17/1988, typ=CT182RG, idt=N738CU, f/t=rwl-onl, lng=1, sel=2.7, x-c=2.7, day=2.7, pic=2.7
+dte=6/17/1988, typ=CT182RG, idt=N738CU, f/t=onl-msn, lng=1, sel=2.9, x-c=2.9, day=2.9, act=0.9, pic=2.9
+dte=6/21/1988, typ=CT182RG, idt=N738CU, f/t=msn-lou, lng=1, sel=3.0, x-c=3.0, day=3.0, pic=3.0
+dte=6/21/1988, typ=CT182RG, idt=N738CU, f/t=lou-pdk, lng=1, sel=2.5, x-c=2.5, day=2.5, act=0.6, pic=2.5
+dte=6/24/1988, typ=CT182RG, idt=N738CU, f/t=pdk-lou, lng=1, sel=2.3, x-c=2.3, day=2.3, pic=2.3
+dte=6/24/1988, typ=CT182RG, idt=N738CU, f/t=lou-msn, lng=1, sel=2.8, x-c=2.8, day=2.8, pic=2.8
+dte=6/28/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.8, day=0.8, pic=0.8
+dte=7/2/1988, typ=CT182RG, idt=N738CU, f/t=msn-cgx, lng=1, sel=1.1, x-c=1.1, day=1.1, pic=1.1
+dte=7/4/1988, typ=CT182RG, idt=N738CU, f/t=cgx-msn, lng=1, sel=1.0, x-c=1.0, day=1.0, pic=1.0
+dte=7/13/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.6, day=0.6, pic=0.6
+dte=7/17/1988, typ=CT182RG, idt=N738CU, f/t=msn-c35-msn, lng=2, sel=1.1, day=1.1, pic=1.1
+dte=7/22/1988, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=4, sel=1.0, day=1.0, pic=1.0
+dte=7/24/1988, typ=CT182RG, idt=N738CU, f/t=msn-waunekee-msn, lng=2, sel=1.0, day=1.0, pic=1.0
+dte=7/28/1988, typ=CT182RG, idt=N738CU, f/t=msn-osh, lng=1, sel=0.9, x-c=0.9, day=0.9, pic=0.9
+dte=7/30/1988, typ=CT182RG, idt=N738CU, f/t=osh-msn, lng=1, sel=0.7, x-c=0.7, day=0.7, pic=0.7
+dte=8/4/1988, typ=CT182RG, idt=N738CU, f/t=msn-blackhawk-msn, lng=2, sel=0.8, day=0.8, pic=0.8
+dte=8/7/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.0, day=1.0, pic=1.0
+dte=8/12/1988, typ=CT182RG, idt=N738CU, f/t=man-sauk prarie-msn, lng=5, sel=1.0, day=1.0, pic=1.0
+dte=8/14/1988, typ=CT182RG, idt=N738CU, f/t=msn-waunekee-msn-local, lng=3, sel=1.6, day=1.6, pic=1.6
+dte=8/19/1988, typ=PA18, idt=N1131A, f/t=msn-ft atkinson-msn, lng=3, sel=1.2, day=1.2, dul=1.2
+*page
+dte=8/21/1988, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=2, sel=1.0, day=1.0, pic=1.0
+dte=8/26/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.8, day=0.8, pic=0.8
+dte=8/28/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.9, day=1.9, pic=1.9
+dte=9/2/1988, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=4, sel=1.0, day=1.0, pic=1.0
+dte=9/8/1988, typ=CT182RG, idt=N738CU, f/t=msn-c33-msn, lng=2, sel=1.1, day=1.1, pic=1.1
+dte=9/10/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.9, day=0.9, pic=0.9
+dte=9/17/1988, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=5, sel=1.1, day=1.1, pic=1.1
+dte=9/18/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.6, day=1.6, act=0.3, hdd=1.1, pic=1.6
+dte=9/24/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.9, day=0.9, pic=0.9
+dte=9/25/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.9, day=0.9, pic=0.9
+dte=9/29/1988, typ=CT182RG, idt=N738CU, f/t=msn-cmi, lng=1, sel=1.8, x-c=1.8, day=1.8, act=0.6, pic=1.8
+dte=9/30/1988, typ=CT182RG, idt=N738CU, f/t=cmi-msn, lng=1, sel=1.7, x-c=1.7, day=1.7, act=0.3, pic=1.7
+dte=10/7/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.8, day=0.8, pic=0.8
+dte=10/8/1988, typ=CT182RG, idt=N738CU, f/t=msn-cassville-msn, lng=2, sel=1.9, x-c=1.9, day=1.9, pic=1.9
+dte=10/13/1988, typ=CT182RG, idt=N738CU, f/t=msn-laf, lng=1, sel=1.7, x-c=1.7, day=1.7, pic=1.7
+*page
+dte=10/14/1988, typ=CT182RG, idt=N738CU, f/t=laf-msn, lng=1, sel=1.9, x-c=1.9, day=1.9, pic=1.9
+dte=10/16/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.8, day=0.8, pic=0.8
+dte=10/22/1988, typ=CT182RG, idt=N738CU, f/t=msn-ryv-msn, lng=4, sel=1.0, day=1.0, pic=1.0
+dte=10/28/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.0, day=1.0, pic=1.0
+dte=10/30/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.1, day=1.1, pic=1.1
+dte=11/11/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.1, day=1.1, pic=1.1
+dte=11/13/1988, typ=CT182RG, idt=N738CU, f/t=msn-c85-msn, lng=1, sel=1.1, day=1.1, pic=1.1
+dte=11/20/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.6, day=1.6, act=0.6, pic=1.6
+dte=11/25/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.2, day=1.2, act=0.3, pic=1.2
+dte=12/2/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.8, day=0.8, pic=0.8
+dte=12/3/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.7, day=0.7, pic=0.7
+dte=12/9/1988, typ=CT182RG, idt=N738CU, f/t=msn-cgx, lng=1, sel=1.0, x-c=1.0, day=1.0, pic=1.0
+dte=12/11/1988, typ=CT182RG, idt=N738CU, f/t=cgx-msn, lng=1, sel=1.2, x-c=1.2, day=1.2, pic=1.2
+dte=12/18/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.8, day=0.8, act=0.3, pic=0.8
+dte=12/22/1988, typ=CT182RG, idt=N738CU, f/t=msn-mt. horeb-waunekee-msn, lng=10, sel=1.6, day=1.6, dul=1.6, pic=1.6
+dte=12/25/1988, typ=CT182RG, idt=N738CU, f/t=msn-black hawk-msn, lng=5, sel=1.1, day=1.1, pic=1.1
+*page
+dte=12/31/1988, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.9, day=0.9, pic=0.9
+dte=1/2/1989, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=2.0, day=2.0, act=1.9, pic=2.0
+dte=1/12/1989, typ=CT182RG, idt=N738CU, f/t=msn-gri, lng=1, sel=3.7, x-c=3.7, day=3.7, pic=3.7
+dte=1/12/1989, typ=CT182RG, idt=N738CU, f/t=gri-guc, lng=1, sel=3.1, x-c=3.1, day=3.1, pic=3.1
+dte=1/17/1989, typ=CT182RG, idt=N738CU, f/t=guc-gri, lng=1, sel=2.9, x-c=2.9, day=2.9, pic=2.9
+dte=1/17/1989, typ=CT182RG, idt=N738CU, f/t=gri-msn, lng=1, sel=2.4, x-c=2.4, day=2.4, pic=2.4
+dte=1/21/1989, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.7, day=0.7, pic=0.7
+dte=1/22/1989, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=6, sel=1.2, day=1.2, pic=1.2
+dte=1/27/1989, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=2, sel=0.9, day=0.9, pic=0.9
+dte=2/10/1989, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=2, sel=0.7, day=0.7, pic=0.7
+dte=2/11/1989, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.7, day=0.7, pic=0.7
+dte=2/25/1989, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.1, day=1.1, pic=1.1
+dte=3/12/1989, typ=CT182RG, idt=N738CU, f/t=msn-?????, lng=1, sel=1.2, day=1.2, pic=1.2
+dte=3/19/1989, typ=CT182RG, idt=N738CU, f/t=msn-lnr-msn, lng=2, sel=2.4, day=2.4, hdd=2.0, dul=2.4
+dte=3/22/1989, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=5, sel=1.1, day=1.1, pic=1.1
+dte=3/26/1989, typ=CT182RG, idt=N738CU, f/t=msn-boscobel-msn, lng=2, sel=1.6, x-c=1.6, day=1.6, pic=1.6
+dte=4/10/1989, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=3, sel=0.9, day=0.9, pic=0.9
+dte=4/16/1989, typ=CT182RG, idt=N738CU, f/t=msn-reedsberg-msn, lng=2, sel=1.2, day=1.2, act=0.2, pic=1.2
+dte=4/22/1989, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.0, day=1.0, pic=1.0
+dte=4/26/1989, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=2, sel=1.1, day=1.1, pic=1.1
+dte=5/7/1989, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=5, sel=1.0, day=1.0, pic=1.0
+dte=5/10/1989, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=4, sel=1.0, day=1.0, pic=1.0
+dte=5/14/1989, typ=CT182RG, idt=N738CU, f/t=msn-boscobel-msn, lng=3, sel=1.5, x-c=1.5, day=1.5, hdd=0.7, pic=1.5
+dte=5/24/1989, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=4, sel=1.0, day=1.0, pic=1.0
+dte=5/27/1989, typ=CT182RG, idt=N738CU, f/t=msn-6y8, lng=1, sel=2.3, x-c=2.3, day=2.3, pic=2.3
+dte=5/29/1989, typ=CT182RG, idt=N738CU, f/t=6y8-msn, lng=1, sel=2.3, x-c=2.3, day=2.3, act=0.5, pic=2.3
+dte=6/3/1989, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=4, sel=0.4, day=0.4, pic=0.4
+dte=6/10/1989, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=1.4, day=1.4, pic=1.4
+dte=6/11/1989, typ=CT182RG, idt=N738CU, f/t=msn-sauk prarie-msn, lng=6, sel=1.1, day=1.1, pic=1.1
+dte=6/16/1989, typ=CT182RG, idt=N738CU, f/t=msn-47c, lng=2, sel=1.4, x-c=1.4, day=1.4, pic=1.4
+dte=6/22/1989, typ=CT182RG, idt=N738CU, f/t=msn-waunekee-msn, lng=5, sel=0.8, day=0.8, pic=0.8
+dte=6/24/1989, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=2, sel=1.7, day=1.7, pic=1.7
+dte=6/29/1989, typ=CT182RG, idt=N738CU, f/t=msn-cgx-msn, lng=2, sel=2.1, x-c=2.1, day=2.1, pic=2.1
+dte=7/20/1989, typ=CT182RG, idt=N738CU, f/t=msn-jvl-msn, lng=2, sel=1.6, day=1.6, hdd=1.4, pic=1.6
+dte=7/23/1989, typ=CT182RG, idt=N738CU, f/t=msn-ryv-msn, lng=5, sel=1.0, day=1.0, pic=1.0
+dte=7/27/1989, typ=CT182RG, idt=N738CU, f/t=msn-osh, lng=1, sel=0.8, x-c=0.8, day=0.8, pic=0.8
+dte=7/29/1989, typ=CT182RG, idt=N738CU, f/t=osh-msn, lng=1, sel=1.0, x-c=1.0, day=1.0, act=0.5, pic=1.0
+dte=8/1/1989, typ=CT182RG, idt=N738CU, f/t=msn-cmi, lng=1, sel=1.7, x-c=1.7, day=1.7, act=0.4, pic=1.7
+dte=8/1/1989, typ=CT182RG, idt=N738CU, f/t=cmi-msn, lng=1, sel=1.6, x-c=1.6, day=1.6, pic=1.6
+dte=8/2/1989, typ=CT182RG, idt=N738CU, f/t=msn-cmi, lng=1, sel=1.7, x-c=1.7, day=1.7, pic=1.7
+dte=8/3/1989, typ=CT182RG, idt=N738CU, f/t=cmi-msn, lng=1, sel=1.6, x-c=1.6, day=1.6, pic=1.6
+dte=8/8/1989, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=2, sel=1.7, day=1.7, pic=1.7
+dte=8/10/1989, typ=CT182RG, idt=N738CU, f/t=msn-local, lng=1, sel=0.9, day=0.9, pic=0.9
