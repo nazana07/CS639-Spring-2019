@@ -1,0 +1,94 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ACT	report.h	12;"	d
+Count	subrs.c	/^Count (char *s, char c)$/;"	f
+CurrentCmd	search.c	/^CurrentCmd (int argno, char arglist[MAXARGS][MAXLINESIZE])$/;"	f
+DAY	report.h	10;"	d
+DUL	report.h	15;"	d
+FIELDSIZE	report.h	5;"	d
+FIRSTROW	search.c	640;"	d	file:
+GAS_DOLS	report.h	19;"	d
+GAS_GALS	report.h	18;"	d
+GetArgs	search.c	/^GetArgs (char inputline[], char arglist[MAXARGS][MAXLINESIZE])$/;"	f
+GetField	subrs.c	/^GetField (char inputline[], int *idx, char fieldname[], char value[])$/;"	f
+HDD	report.h	13;"	d
+HEL	report.h	8;"	d
+HelpCmd	search.c	/^HelpCmd (int argno, char arglist[MAXARGS][MAXLINESIZE])$/;"	f
+InRange	search.c	/^InRange (i)$/;"	f
+InitCmd	search.c	/^InitCmd (int argno, char arglist[MAXARGS][MAXLINESIZE])$/;"	f
+InitSearch	search.c	/^InitSearch ()$/;"	f
+InitSubTotals	search.c	/^InitSubTotals (l)$/;"	f
+LARGENUMBER	search.c	6;"	d	file:
+ListCmd	search.c	/^ListCmd (int argno, char arglist[MAXARGS][MAXLINESIZE])$/;"	f
+MAXARGS	report.h	3;"	d
+MAXENTRIES	report.h	1;"	d
+MAXLINESIZE	report.h	2;"	d
+MarkLastOnPage	subrs.c	/^MarkLastOnPage (int idx)$/;"	f
+MonthlyCmd	search.c	/^MonthlyCmd (int argno, char arglist[MAXARGS][MAXLINESIZE])$/;"	f
+NGT	report.h	11;"	d
+OIL_DOLS	report.h	21;"	d
+OIL_QTS	report.h	20;"	d
+PIC	report.h	16;"	d
+PrintDate	search.c	/^PrintDate (FILE *fp, struct daterec date)$/;"	f
+PrintHeader	search.c	/^PrintHeader ()$/;"	f
+PrintRange	search.c	/^PrintRange ()$/;"	f
+PrintSubTotals	search.c	/^PrintSubTotals (char *s, int lngs, double l[])$/;"	f
+ProcessDate	subrs.c	/^ProcessDate (char value[], struct daterec *date)$/;"	f
+ProcessLine	subrs.c	/^ProcessLine(char inputline[], int idx)$/;"	f
+RangeCmd	search.c	/^RangeCmd (int argno, char arglist[MAXARGS][MAXLINESIZE])$/;"	f
+RecentCmd	search.c	/^RecentCmd (int argno, char arglist[MAXARGS][MAXLINESIZE])$/;"	f
+ReportCmd	search.c	/^ReportCmd (int argno, char arglist[MAXARGS][MAXLINESIZE])$/;"	f
+SEL	report.h	7;"	d
+SIC	report.h	17;"	d
+SIM	report.h	14;"	d
+Search	search.c	/^Search ()$/;"	f
+SelectCmd	search.c	/^SelectCmd (int argno, char arglist[MAXARGS][MAXLINESIZE])$/;"	f
+SpreadCmd	search.c	/^SpreadCmd (int argno, char arglist[MAXARGS][MAXLINESIZE])$/;"	f
+Spread_Double	spread_subrs.c	/^Spread_Double (FILE *outfile, char *column, int row, double data)$/;"	f
+Spread_Int	spread_subrs.c	/^Spread_Int (FILE *outfile, char *column, int row, int data)$/;"	f
+Spread_String	spread_subrs.c	/^Spread_String (FILE *outfile, char *column, int row, char *data)$/;"	f
+Spread_Total	spread_subrs.c	/^Spread_Total (FILE *outfile, char *column, int row, int first)$/;"	f
+TOTAL	report.h	22;"	d
+TRUE	subrs.c	6;"	d	file:
+TotalCmd	search.c	/^TotalCmd (int argno, char arglist[MAXARGS][MAXLINESIZE])$/;"	f
+UnselectCmd	search.c	/^UnselectCmd (int argno, char arglist[MAXARGS][MAXLINESIZE])$/;"	f
+X_C	report.h	9;"	d
+count	report.c	/^int count = 0;$/;"	v
+date_day	report.h	/^    int	date_day;$/;"	m	struct:daterec
+date_month	report.h	/^    int	date_month;$/;"	m	struct:daterec
+date_year	report.h	/^    int	date_year;$/;"	m	struct:daterec
+daterec	report.h	/^struct daterec$/;"	s
+dateselect	search.c	/^int dateselect;$/;"	v
+e_apprchs	report.h	/^    int		   e_apprchs;$/;"	m	struct:entry
+e_date	report.h	/^    struct daterec e_date;$/;"	m	struct:entry	typeref:struct:entry::daterec
+e_endofpage	report.h	/^    int		   e_endofpage;$/;"	m	struct:entry
+e_fromto	report.h	/^    char	   e_fromto[FIELDSIZE];$/;"	m	struct:entry
+e_ident	report.h	/^    char	   e_ident[16];$/;"	m	struct:entry
+e_lngs	report.h	/^    int		   e_lngs;$/;"	m	struct:entry
+e_nightlngs	report.h	/^    int		   e_nightlngs;$/;"	m	struct:entry
+e_times	report.h	/^    double	   e_times[TOTAL+1];$/;"	m	struct:entry
+e_type	report.h	/^    char   	   e_type[16];$/;"	m	struct:entry
+enddate	search.c	/^struct daterec enddate;$/;"	v	typeref:struct:daterec
+entry	report.h	/^struct entry$/;"	s
+fieldindex	report.h	/^    int   fieldindex;$/;"	m	struct:fields
+fieldname	report.h	/^    char *fieldname;$/;"	m	struct:fields
+fields	report.h	/^struct fields$/;"	s
+fieldselect	report.h	/^    int   fieldselect;$/;"	m	struct:fields
+fieldtable	subrs.c	/^struct fields fieldtable[] =$/;"	v	typeref:struct:fields
+fromtoselect	search.c	/^int fromtoselect;$/;"	v
+identlist	search.c	/^char identlist [MAXARGS][MAXLINESIZE];$/;"	v
+identmatch	search.c	/^int identmatch;$/;"	v
+identselect	search.c	/^int identselect;$/;"	v
+lngselect	search.c	/^int lngselect;$/;"	v
+logbook	report.c	/^struct entry logbook[MAXENTRIES];$/;"	v	typeref:struct:entry
+main	report.c	/^main(int argc, char *argv[])$/;"	f
+outfile	search.c	/^FILE *outfile;$/;"	v
+speadcolumn	report.h	/^    char *speadcolumn;$/;"	m	struct:fields
+startdate	search.c	/^struct daterec startdate;$/;"	v	typeref:struct:daterec
+typelist	search.c	/^char typelist [MAXARGS][MAXLINESIZE];$/;"	v
+typematch	search.c	/^int typematch;$/;"	v
+typeselect	search.c	/^int typeselect;$/;"	v
