@@ -1,7 +1,7 @@
 CC = gcc
 WARNING_FLAGS = -Wall -Wextra
 EXE = prodcomm
-OPT =
+OPT = -g -O0 -fno-omit-frame-pointer --sanitize=thread
 SCAN_BUILD_DIR = scan-build-out
 
 all: main.o queue.o

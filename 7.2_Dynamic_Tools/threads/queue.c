@@ -93,14 +93,16 @@ Queue *CreateStringQueue(int size) {
  * is space available.
  */
 void EnqueueString(Queue *q, char *string) {
+	// block if there is no more room in the queue
+	sem_wait(&(q->empty));
+
+	// block if another thread is in the critical section
+	sem_wait(&(q->mutex));
+
 	// check if thread will be blocked based on curr queue size
 	if(q->length > 9)
 		q->enqueueBlockCount++;
 	
-	// block if there is no more room in the queue
-	sem_wait(&(q->empty));
-	// block if another thread is in the critical section
-	sem_wait(&(q->mutex));
 	
 	// update queue
 	q->length++;
@@ -123,15 +125,16 @@ void EnqueueString(Queue *q, char *string) {
  */
 char* DequeueString(Queue *q) {
 	char *str;  // string to be dequeued
-	
-	// check if thread will be blocked based on curr queue size
-	if(q->length < 1)
-		q->dequeueBlockCount++;
 
 	// block if there are no strings in the queue
 	sem_wait(&(q->full));
+	
 	// block if another thread is in the critical section
 	sem_wait(&(q->mutex));
+
+	// check if thread will be blocked based on curr queue size
+	if(q->length < 1)
+		q->dequeueBlockCount++;
 
 	// update queue
 	q->length--;
