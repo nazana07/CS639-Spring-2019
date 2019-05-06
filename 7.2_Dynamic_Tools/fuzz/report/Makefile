@@ -4,7 +4,7 @@
 CC = gcc
 OPT = -O0
 OPTLEVEL = -g
-PROFILE = 
+PROFILE = -fno-omit-frame-pointer --sanitize=address
 SCAN_BUILD_DIR = scan-build-out
 
 report:	report.o subrs.o search.o spread_subrs.o countchar.o

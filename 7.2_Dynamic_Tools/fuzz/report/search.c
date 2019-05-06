@@ -95,12 +95,16 @@ Search ()
 
     fprintf (stderr, "> ");
     fflush (stderr);
-    while (gets (inputline))
-    {
+	while (fgets(inputline, MAXLINESIZE, stdin) != NULL) {
 	len = strlen(inputline);
-	for (i=0; i< len; i++) {
-	    countchar(inputline[i]);
+	if (len > 0 && inputline[len - 1] == '\n') {
+		inputline[len - 1] = '\0'; // truncate the ending '\n'
+		len--;
 	}
+	for (i = 0; i < len; i++) {
+		countchar(inputline[i]);
+	}
+
 
 	numargs = GetArgs (inputline, arglist);
 
